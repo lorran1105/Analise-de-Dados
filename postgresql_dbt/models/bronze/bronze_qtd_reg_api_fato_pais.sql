@@ -7,7 +7,7 @@ FROM {{source('projeto_paises','fato_pais')}}
 ),
 
 renamed as (
-select count (*) as qtd from source
+select count (*) as qtd_regitros from source
 
 )
 
