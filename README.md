@@ -23,11 +23,20 @@ O projeto segue uma arquitetura moderna de pipeline, dividida em duas camadas pr
 
 ## Estrutura do Repositório
 O projeto está organizado para refletir o fluxo do pipeline:
-|-- ELT - API_PYTHON_PROJETO_PAIS/
-|   |-- .ipynb                      # Notebooks com código de extração e carga.
-|   |-- .csv                        # Arquivos de dados de exemplo.
-|-- postgresql_dbt/                 # Projeto dbt para transformação e modelagem.
-|   |-- models/                     # Modelos em SQL.
-|   |-- dbt_project.yml             # Configurações do projeto.
-|-- .env                            # Arquivo de variáveis de ambiente.
-|-- README.md                       # Documentação do projeto.
+├── ELT - API_PYTHON_PROJETO_PAIS/
+│   ├── Api Dados do banco Mundial.ipynb
+│   ├── API OpenWeatherMap - Dim Tempo na Capital.ipynb
+│   ├── API restcountries - Dim pais.ipynb
+│   └── API restcountries - Fato pais.ipynb
+│
+├── postgresql_dbt/
+│   ├── analyses/
+│   ├── models/
+│   ├── tests/
+│   ├── dbt_project.yml
+│   └── ...
+│
+├── .env
+└── README.md
+
+
