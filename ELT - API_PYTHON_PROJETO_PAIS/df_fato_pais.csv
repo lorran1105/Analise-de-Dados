@@ -1,251 +1,251 @@
 nome_resumido,nome,nome_oficial,capital,regiao,subregiao,populacao,area_km2,idiomas,moedas,bandeira_url,data_carga
-RU,Russia,Russian Federation,Moscow,Europe,Eastern Europe,144104080,17098242.0,Russian,Russian ruble,https://flagcdn.com/w320/ru.png,2025-09-24 15:33:04
-AQ,Antarctica,Antarctica,Não informado,Antarctic,,1000,14000000.0,Não informado,Não informado,https://flagcdn.com/w320/aq.png,2025-09-24 15:33:04
-CA,Canada,Canada,Ottawa,Americas,North America,38005238,9984670.0,"English, French",Canadian dollar,https://flagcdn.com/w320/ca.png,2025-09-24 15:33:04
-CN,China,People's Republic of China,Beijing,Asia,Eastern Asia,1402112000,9706961.0,Chinese,Chinese yuan,https://flagcdn.com/w320/cn.png,2025-09-24 15:33:04
-US,United States,United States of America,"Washington, D.C.",Americas,North America,329484123,9372610.0,English,United States dollar,https://flagcdn.com/w320/us.png,2025-09-24 15:33:04
-BR,Brazil,Federative Republic of Brazil,Brasília,Americas,South America,212559409,8515767.0,Portuguese,Brazilian real,https://flagcdn.com/w320/br.png,2025-09-24 15:33:04
-AU,Australia,Commonwealth of Australia,Canberra,Oceania,Australia and New Zealand,25687041,7692024.0,English,Australian dollar,https://flagcdn.com/w320/au.png,2025-09-24 15:33:04
-IN,India,Republic of India,New Delhi,Asia,Southern Asia,1380004385,3287590.0,"English, Hindi, Tamil",Indian rupee,https://flagcdn.com/w320/in.png,2025-09-24 15:33:04
-AR,Argentina,Argentine Republic,Buenos Aires,Americas,South America,45376763,2780400.0,"Guaraní, Spanish",Argentine peso,https://flagcdn.com/w320/ar.png,2025-09-24 15:33:04
-KZ,Kazakhstan,Republic of Kazakhstan,Astana,Asia,Central Asia,18754440,2724900.0,"Kazakh, Russian",Kazakhstani tenge,https://flagcdn.com/w320/kz.png,2025-09-24 15:33:04
-DZ,Algeria,People's Democratic Republic of Algeria,Algiers,Africa,Northern Africa,44700000,2381741.0,Arabic,Algerian dinar,https://flagcdn.com/w320/dz.png,2025-09-24 15:33:04
-CD,DR Congo,Democratic Republic of the Congo,Kinshasa,Africa,Middle Africa,108407721,2344858.0,"French, Kikongo, Lingala, Tshiluba, Swahili",Congolese franc,https://flagcdn.com/w320/cd.png,2025-09-24 15:33:04
-GL,Greenland,Greenland,Nuuk,Americas,North America,56367,2166086.0,Greenlandic,krone,https://flagcdn.com/w320/gl.png,2025-09-24 15:33:04
-SA,Saudi Arabia,Kingdom of Saudi Arabia,Riyadh,Asia,Western Asia,34813867,2149690.0,Arabic,Saudi riyal,https://flagcdn.com/w320/sa.png,2025-09-24 15:33:04
-MX,Mexico,United Mexican States,Mexico City,Americas,North America,128932753,1964375.0,Spanish,Mexican peso,https://flagcdn.com/w320/mx.png,2025-09-24 15:33:04
-ID,Indonesia,Republic of Indonesia,Jakarta,Asia,South-Eastern Asia,273523621,1904569.0,Indonesian,Indonesian rupiah,https://flagcdn.com/w320/id.png,2025-09-24 15:33:04
-SD,Sudan,Republic of the Sudan,Khartoum,Africa,Northern Africa,43849269,1886068.0,"Arabic, English",Sudanese pound,https://flagcdn.com/w320/sd.png,2025-09-24 15:33:04
-LY,Libya,State of Libya,Tripoli,Africa,Northern Africa,6871287,1759540.0,Arabic,Libyan dinar,https://flagcdn.com/w320/ly.png,2025-09-24 15:33:04
-IR,Iran,Islamic Republic of Iran,Tehran,Asia,Southern Asia,83992953,1648195.0,Persian (Farsi),Iranian rial,https://flagcdn.com/w320/ir.png,2025-09-24 15:33:04
-MN,Mongolia,Mongolia,Ulan Bator,Asia,Eastern Asia,3278292,1564110.0,Mongolian,Mongolian tögrög,https://flagcdn.com/w320/mn.png,2025-09-24 15:33:04
-PE,Peru,Republic of Peru,Lima,Americas,South America,32971846,1285216.0,"Aymara, Quechua, Spanish",Peruvian sol,https://flagcdn.com/w320/pe.png,2025-09-24 15:33:04
-TD,Chad,Republic of Chad,N'Djamena,Africa,Middle Africa,16425859,1284000.0,"Arabic, French",Central African CFA franc,https://flagcdn.com/w320/td.png,2025-09-24 15:33:04
-NE,Niger,Republic of Niger,Niamey,Africa,Western Africa,24206636,1267000.0,French,West African CFA franc,https://flagcdn.com/w320/ne.png,2025-09-24 15:33:04
-AO,Angola,Republic of Angola,Luanda,Africa,Middle Africa,32866268,1246700.0,Portuguese,Angolan kwanza,https://flagcdn.com/w320/ao.png,2025-09-24 15:33:04
-ML,Mali,Republic of Mali,Bamako,Africa,Western Africa,20250834,1240192.0,French,West African CFA franc,https://flagcdn.com/w320/ml.png,2025-09-24 15:33:04
-ZA,South Africa,Republic of South Africa,Pretoria,Africa,Southern Africa,59308690,1221037.0,"Afrikaans, English, Southern Ndebele, Northern Sotho, Southern Sotho, Swazi, Tswana, Tsonga, Venda, Xhosa, Zulu",South African rand,https://flagcdn.com/w320/za.png,2025-09-24 15:33:04
-CO,Colombia,Republic of Colombia,Bogotá,Americas,South America,50882884,1141748.0,Spanish,Colombian peso,https://flagcdn.com/w320/co.png,2025-09-24 15:33:04
-ET,Ethiopia,Federal Democratic Republic of Ethiopia,Addis Ababa,Africa,Eastern Africa,114963583,1104300.0,Amharic,Ethiopian birr,https://flagcdn.com/w320/et.png,2025-09-24 15:33:04
-BO,Bolivia,Plurinational State of Bolivia,Sucre,Americas,South America,11673029,1098581.0,"Aymara, Guaraní, Quechua, Spanish",Bolivian boliviano,https://flagcdn.com/w320/bo.png,2025-09-24 15:33:04
-MR,Mauritania,Islamic Republic of Mauritania,Nouakchott,Africa,Western Africa,4649660,1030700.0,Arabic,Mauritanian ouguiya,https://flagcdn.com/w320/mr.png,2025-09-24 15:33:04
-EG,Egypt,Arab Republic of Egypt,Cairo,Africa,Northern Africa,102334403,1002450.0,Arabic,Egyptian pound,https://flagcdn.com/w320/eg.png,2025-09-24 15:33:04
-TZ,Tanzania,United Republic of Tanzania,Dodoma,Africa,Eastern Africa,59734213,945087.0,"English, Swahili",Tanzanian shilling,https://flagcdn.com/w320/tz.png,2025-09-24 15:33:04
-NG,Nigeria,Federal Republic of Nigeria,Abuja,Africa,Western Africa,206139587,923768.0,English,Nigerian naira,https://flagcdn.com/w320/ng.png,2025-09-24 15:33:04
-VE,Venezuela,Bolivarian Republic of Venezuela,Caracas,Americas,South America,28435943,916445.0,Spanish,Venezuelan bolívar soberano,https://flagcdn.com/w320/ve.png,2025-09-24 15:33:04
-PK,Pakistan,Islamic Republic of Pakistan,Islamabad,Asia,Southern Asia,220892331,881912.0,"English, Urdu",Pakistani rupee,https://flagcdn.com/w320/pk.png,2025-09-24 15:33:04
-NA,Namibia,Republic of Namibia,Windhoek,Africa,Southern Africa,2540916,825615.0,"Afrikaans, German, English, Herero, Khoekhoe, Kwangali, Lozi, Ndonga, Tswana","Namibian dollar, South African rand",https://flagcdn.com/w320/na.png,2025-09-24 15:33:04
-MZ,Mozambique,Republic of Mozambique,Maputo,Africa,Eastern Africa,31255435,801590.0,Portuguese,Mozambican metical,https://flagcdn.com/w320/mz.png,2025-09-24 15:33:04
-TR,Turkey,Republic of Turkey,Ankara,Asia,Western Asia,84339067,783562.0,Turkish,Turkish lira,https://flagcdn.com/w320/tr.png,2025-09-24 15:33:04
-CL,Chile,Republic of Chile,Santiago,Americas,South America,19116209,756102.0,Spanish,Chilean peso,https://flagcdn.com/w320/cl.png,2025-09-24 15:33:04
-ZM,Zambia,Republic of Zambia,Lusaka,Africa,Eastern Africa,18383956,752612.0,English,Zambian kwacha,https://flagcdn.com/w320/zm.png,2025-09-24 15:33:04
-MM,Myanmar,Republic of the Union of Myanmar,Naypyidaw,Asia,South-Eastern Asia,54409794,676578.0,Burmese,Burmese kyat,https://flagcdn.com/w320/mm.png,2025-09-24 15:33:04
-AF,Afghanistan,Islamic Republic of Afghanistan,Kabul,Asia,Southern Asia,40218234,652230.0,"Dari, Pashto, Turkmen",Afghan afghani,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png,2025-09-24 15:33:04
-SO,Somalia,Federal Republic of Somalia,Mogadishu,Africa,Eastern Africa,15893219,637657.0,"Arabic, Somali",Somali shilling,https://flagcdn.com/w320/so.png,2025-09-24 15:33:04
-CF,Central African Republic,Central African Republic,Bangui,Africa,Middle Africa,4829764,622984.0,"French, Sango",Central African CFA franc,https://flagcdn.com/w320/cf.png,2025-09-24 15:33:04
-SS,South Sudan,Republic of South Sudan,Juba,Africa,Middle Africa,11193729,619745.0,English,South Sudanese pound,https://flagcdn.com/w320/ss.png,2025-09-24 15:33:04
-UA,Ukraine,Ukraine,Kyiv,Europe,Eastern Europe,44134693,603500.0,Ukrainian,Ukrainian hryvnia,https://flagcdn.com/w320/ua.png,2025-09-24 15:33:04
-MG,Madagascar,Republic of Madagascar,Antananarivo,Africa,Eastern Africa,27691019,587041.0,"French, Malagasy",Malagasy ariary,https://flagcdn.com/w320/mg.png,2025-09-24 15:33:04
-BW,Botswana,Republic of Botswana,Gaborone,Africa,Southern Africa,2351625,582000.0,"English, Tswana",Botswana pula,https://flagcdn.com/w320/bw.png,2025-09-24 15:33:04
-KE,Kenya,Republic of Kenya,Nairobi,Africa,Eastern Africa,53771300,580367.0,"English, Swahili",Kenyan shilling,https://flagcdn.com/w320/ke.png,2025-09-24 15:33:04
-FR,France,French Republic,Paris,Europe,Western Europe,67391582,551695.0,French,Euro,https://flagcdn.com/w320/fr.png,2025-09-24 15:33:04
-YE,Yemen,Republic of Yemen,Sana'a,Asia,Western Asia,29825968,527968.0,Arabic,Yemeni rial,https://flagcdn.com/w320/ye.png,2025-09-24 15:33:04
-TH,Thailand,Kingdom of Thailand,Bangkok,Asia,South-Eastern Asia,69799978,513120.0,Thai,Thai baht,https://flagcdn.com/w320/th.png,2025-09-24 15:33:04
-ES,Spain,Kingdom of Spain,Madrid,Europe,Southern Europe,47351567,505992.0,"Spanish, Catalan, Basque, Galician",Euro,https://flagcdn.com/w320/es.png,2025-09-24 15:33:04
-TM,Turkmenistan,Turkmenistan,Ashgabat,Asia,Central Asia,6031187,488100.0,"Russian, Turkmen",Turkmenistan manat,https://flagcdn.com/w320/tm.png,2025-09-24 15:33:04
-CM,Cameroon,Republic of Cameroon,Yaoundé,Africa,Middle Africa,26545864,475442.0,"English, French",Central African CFA franc,https://flagcdn.com/w320/cm.png,2025-09-24 15:33:04
-PG,Papua New Guinea,Independent State of Papua New Guinea,Port Moresby,Oceania,Melanesia,8947027,462840.0,"English, Hiri Motu, Tok Pisin",Papua New Guinean kina,https://flagcdn.com/w320/pg.png,2025-09-24 15:33:04
-SE,Sweden,Kingdom of Sweden,Stockholm,Europe,Northern Europe,10353442,450295.0,Swedish,Swedish krona,https://flagcdn.com/w320/se.png,2025-09-24 15:33:04
-UZ,Uzbekistan,Republic of Uzbekistan,Tashkent,Asia,Central Asia,34232050,447400.0,"Russian, Uzbek",Uzbekistani soʻm,https://flagcdn.com/w320/uz.png,2025-09-24 15:33:04
-MA,Morocco,Kingdom of Morocco,Rabat,Africa,Northern Africa,36910558,446550.0,"Arabic, Berber",Moroccan dirham,https://flagcdn.com/w320/ma.png,2025-09-24 15:33:04
-IQ,Iraq,Republic of Iraq,Baghdad,Asia,Western Asia,40222503,438317.0,"Arabic, Aramaic, Sorani",Iraqi dinar,https://flagcdn.com/w320/iq.png,2025-09-24 15:33:04
-PY,Paraguay,Republic of Paraguay,Asunción,Americas,South America,7132530,406752.0,"Guaraní, Spanish",Paraguayan guaraní,https://flagcdn.com/w320/py.png,2025-09-24 15:33:04
-ZW,Zimbabwe,Republic of Zimbabwe,Harare,Africa,Southern Africa,14862927,390757.0,"Chibarwe, English, Kalanga, Khoisan, Ndau, Northern Ndebele, Chewa, Shona, Sotho, Tonga, Tswana, Tsonga, Venda, Xhosa, Zimbabwean Sign Language",Zimbabwean dollar,https://flagcdn.com/w320/zw.png,2025-09-24 15:33:04
-JP,Japan,Japan,Tokyo,Asia,Eastern Asia,125836021,377930.0,Japanese,Japanese yen,https://flagcdn.com/w320/jp.png,2025-09-24 15:33:04
-DE,Germany,Federal Republic of Germany,Berlin,Europe,Western Europe,83240525,357114.0,German,Euro,https://flagcdn.com/w320/de.png,2025-09-24 15:33:04
-PH,Philippines,Republic of the Philippines,Manila,Asia,South-Eastern Asia,109581085,342353.0,"English, Filipino",Philippine peso,https://flagcdn.com/w320/ph.png,2025-09-24 15:33:04
-CG,Republic of the Congo,Republic of the Congo,Brazzaville,Africa,Middle Africa,5657000,342000.0,"French, Kikongo, Lingala",Central African CFA franc,https://flagcdn.com/w320/cg.png,2025-09-24 15:33:04
-FI,Finland,Republic of Finland,Helsinki,Europe,Northern Europe,5530719,338424.0,"Finnish, Swedish",Euro,https://flagcdn.com/w320/fi.png,2025-09-24 15:33:04
-VN,Vietnam,Socialist Republic of Vietnam,Hanoi,Asia,South-Eastern Asia,97338583,331212.0,Vietnamese,Vietnamese đồng,https://flagcdn.com/w320/vn.png,2025-09-24 15:33:04
-MY,Malaysia,Malaysia,Kuala Lumpur,Asia,South-Eastern Asia,32365998,330803.0,"English, Malay",Malaysian ringgit,https://flagcdn.com/w320/my.png,2025-09-24 15:33:04
-NO,Norway,Kingdom of Norway,Oslo,Europe,Northern Europe,5379475,323802.0,"Norwegian Nynorsk, Norwegian Bokmål, Sami",Norwegian krone,https://flagcdn.com/w320/no.png,2025-09-24 15:33:04
-CI,Ivory Coast,Republic of Côte d'Ivoire,Yamoussoukro,Africa,Western Africa,26378275,322463.0,French,West African CFA franc,https://flagcdn.com/w320/ci.png,2025-09-24 15:33:04
-PL,Poland,Republic of Poland,Warsaw,Europe,Central Europe,37950802,312679.0,Polish,Polish złoty,https://flagcdn.com/w320/pl.png,2025-09-24 15:33:04
-OM,Oman,Sultanate of Oman,Muscat,Asia,Western Asia,5106622,309500.0,Arabic,Omani rial,https://flagcdn.com/w320/om.png,2025-09-24 15:33:04
-IT,Italy,Italian Republic,Rome,Europe,Southern Europe,59554023,301336.0,"Italian, Catalan",Euro,https://flagcdn.com/w320/it.png,2025-09-24 15:33:04
-EC,Ecuador,Republic of Ecuador,Quito,Americas,South America,17643060,276841.0,Spanish,United States dollar,https://flagcdn.com/w320/ec.png,2025-09-24 15:33:04
-BF,Burkina Faso,Burkina Faso,Ouagadougou,Africa,Western Africa,20903278,272967.0,French,West African CFA franc,https://flagcdn.com/w320/bf.png,2025-09-24 15:33:04
-NZ,New Zealand,New Zealand,Wellington,Oceania,Australia and New Zealand,5084300,270467.0,"English, Māori, New Zealand Sign Language",New Zealand dollar,https://flagcdn.com/w320/nz.png,2025-09-24 15:33:04
-GA,Gabon,Gabonese Republic,Libreville,Africa,Middle Africa,2225728,267668.0,French,Central African CFA franc,https://flagcdn.com/w320/ga.png,2025-09-24 15:33:04
-EH,Western Sahara,Sahrawi Arab Democratic Republic,El Aaiún,Africa,Northern Africa,510713,266000.0,"Berber, Hassaniya, Spanish","Algerian dinar, Moroccan dirham, Mauritanian ouguiya",https://flagcdn.com/w320/eh.png,2025-09-24 15:33:04
-GN,Guinea,Republic of Guinea,Conakry,Africa,Western Africa,13132792,245857.0,French,Guinean franc,https://flagcdn.com/w320/gn.png,2025-09-24 15:33:04
-GB,United Kingdom,United Kingdom of Great Britain and Northern Ireland,London,Europe,Northern Europe,67215293,242900.0,English,British pound,https://flagcdn.com/w320/gb.png,2025-09-24 15:33:04
-UG,Uganda,Republic of Uganda,Kampala,Africa,Eastern Africa,45741000,241550.0,"English, Swahili",Ugandan shilling,https://flagcdn.com/w320/ug.png,2025-09-24 15:33:04
-GH,Ghana,Republic of Ghana,Accra,Africa,Western Africa,31072945,238533.0,English,Ghanaian cedi,https://flagcdn.com/w320/gh.png,2025-09-24 15:33:04
-RO,Romania,Romania,Bucharest,Europe,Southeast Europe,19286123,238391.0,Romanian,Romanian leu,https://flagcdn.com/w320/ro.png,2025-09-24 15:33:04
-LA,Laos,Lao People's Democratic Republic,Vientiane,Asia,South-Eastern Asia,7275556,236800.0,Lao,Lao kip,https://flagcdn.com/w320/la.png,2025-09-24 15:33:04
-GY,Guyana,Co-operative Republic of Guyana,Georgetown,Americas,South America,786559,214969.0,English,Guyanese dollar,https://flagcdn.com/w320/gy.png,2025-09-24 15:33:04
-BY,Belarus,Republic of Belarus,Minsk,Europe,Eastern Europe,9398861,207600.0,"Belarusian, Russian",Belarusian ruble,https://flagcdn.com/w320/by.png,2025-09-24 15:33:04
-KG,Kyrgyzstan,Kyrgyz Republic,Bishkek,Asia,Central Asia,6591600,199951.0,"Kyrgyz, Russian",Kyrgyzstani som,https://flagcdn.com/w320/kg.png,2025-09-24 15:33:04
-SN,Senegal,Republic of Senegal,Dakar,Africa,Western Africa,16743930,196722.0,French,West African CFA franc,https://flagcdn.com/w320/sn.png,2025-09-24 15:33:04
-SY,Syria,Syrian Arab Republic,Damascus,Asia,Western Asia,17500657,185180.0,Arabic,Syrian pound,https://flagcdn.com/w320/sy.png,2025-09-24 15:33:04
-KH,Cambodia,Kingdom of Cambodia,Phnom Penh,Asia,South-Eastern Asia,16718971,181035.0,Khmer,"Cambodian riel, United States dollar",https://flagcdn.com/w320/kh.png,2025-09-24 15:33:04
-UY,Uruguay,Oriental Republic of Uruguay,Montevideo,Americas,South America,3473727,181034.0,Spanish,Uruguayan peso,https://flagcdn.com/w320/uy.png,2025-09-24 15:33:04
-SR,Suriname,Republic of Suriname,Paramaribo,Americas,South America,586634,163820.0,Dutch,Surinamese dollar,https://flagcdn.com/w320/sr.png,2025-09-24 15:33:04
-TN,Tunisia,Tunisian Republic,Tunis,Africa,Northern Africa,11818618,163610.0,Arabic,Tunisian dinar,https://flagcdn.com/w320/tn.png,2025-09-24 15:33:04
-BD,Bangladesh,People's Republic of Bangladesh,Dhaka,Asia,Southern Asia,164689383,147570.0,Bengali,Bangladeshi taka,https://flagcdn.com/w320/bd.png,2025-09-24 15:33:04
-NP,Nepal,Federal Democratic Republic of Nepal,Kathmandu,Asia,Southern Asia,29136808,147181.0,Nepali,Nepalese rupee,https://flagcdn.com/w320/np.png,2025-09-24 15:33:04
-TJ,Tajikistan,Republic of Tajikistan,Dushanbe,Asia,Central Asia,9537642,143100.0,"Russian, Tajik",Tajikistani somoni,https://flagcdn.com/w320/tj.png,2025-09-24 15:33:04
-GR,Greece,Hellenic Republic,Athens,Europe,Southern Europe,10715549,131990.0,Greek,Euro,https://flagcdn.com/w320/gr.png,2025-09-24 15:33:04
-NI,Nicaragua,Republic of Nicaragua,Managua,Americas,Central America,6624554,130373.0,Spanish,Nicaraguan córdoba,https://flagcdn.com/w320/ni.png,2025-09-24 15:33:04
-KP,North Korea,Democratic People's Republic of Korea,Pyongyang,Asia,Eastern Asia,25778815,120538.0,Korean,North Korean won,https://flagcdn.com/w320/kp.png,2025-09-24 15:33:04
-MW,Malawi,Republic of Malawi,Lilongwe,Africa,Eastern Africa,19129955,118484.0,"English, Chewa",Malawian kwacha,https://flagcdn.com/w320/mw.png,2025-09-24 15:33:04
-ER,Eritrea,State of Eritrea,Asmara,Africa,Eastern Africa,5352000,117600.0,"Arabic, English, Tigrinya",Eritrean nakfa,https://flagcdn.com/w320/er.png,2025-09-24 15:33:04
-BJ,Benin,Republic of Benin,Porto-Novo,Africa,Western Africa,12123198,112622.0,French,West African CFA franc,https://flagcdn.com/w320/bj.png,2025-09-24 15:33:04
-HN,Honduras,Republic of Honduras,Tegucigalpa,Americas,Central America,9904608,112492.0,Spanish,Honduran lempira,https://flagcdn.com/w320/hn.png,2025-09-24 15:33:04
-LR,Liberia,Republic of Liberia,Monrovia,Africa,Western Africa,5057677,111369.0,English,Liberian dollar,https://flagcdn.com/w320/lr.png,2025-09-24 15:33:04
-BG,Bulgaria,Republic of Bulgaria,Sofia,Europe,Southeast Europe,6927288,110879.0,Bulgarian,Bulgarian lev,https://flagcdn.com/w320/bg.png,2025-09-24 15:33:04
-CU,Cuba,Republic of Cuba,Havana,Americas,Caribbean,11326616,109884.0,Spanish,"Cuban convertible peso, Cuban peso",https://flagcdn.com/w320/cu.png,2025-09-24 15:33:04
-GT,Guatemala,Republic of Guatemala,Guatemala City,Americas,Central America,16858333,108889.0,Spanish,Guatemalan quetzal,https://flagcdn.com/w320/gt.png,2025-09-24 15:33:04
-IS,Iceland,Iceland,Reykjavik,Europe,Northern Europe,366425,103000.0,Icelandic,Icelandic króna,https://flagcdn.com/w320/is.png,2025-09-24 15:33:04
-KR,South Korea,Republic of Korea,Seoul,Asia,Eastern Asia,51780579,100210.0,Korean,South Korean won,https://flagcdn.com/w320/kr.png,2025-09-24 15:33:04
-HU,Hungary,Hungary,Budapest,Europe,Central Europe,9749763,93028.0,Hungarian,Hungarian forint,https://flagcdn.com/w320/hu.png,2025-09-24 15:33:04
-PT,Portugal,Portuguese Republic,Lisbon,Europe,Southern Europe,10305564,92090.0,Portuguese,Euro,https://flagcdn.com/w320/pt.png,2025-09-24 15:33:04
-JO,Jordan,Hashemite Kingdom of Jordan,Amman,Asia,Western Asia,10203140,89342.0,Arabic,Jordanian dinar,https://flagcdn.com/w320/jo.png,2025-09-24 15:33:04
-RS,Serbia,Republic of Serbia,Belgrade,Europe,Southeast Europe,6908224,88361.0,Serbian,Serbian dinar,https://flagcdn.com/w320/rs.png,2025-09-24 15:33:04
-AZ,Azerbaijan,Republic of Azerbaijan,Baku,Asia,Western Asia,10110116,86600.0,Azerbaijani,Azerbaijani manat,https://flagcdn.com/w320/az.png,2025-09-24 15:33:04
-AT,Austria,Republic of Austria,Vienna,Europe,Central Europe,8917205,83871.0,German,Euro,https://flagcdn.com/w320/at.png,2025-09-24 15:33:04
-AE,United Arab Emirates,United Arab Emirates,Abu Dhabi,Asia,Western Asia,9890400,83600.0,Arabic,United Arab Emirates dirham,https://flagcdn.com/w320/ae.png,2025-09-24 15:33:04
-GF,French Guiana,Guiana,Cayenne,Americas,South America,254541,83534.0,French,Euro,https://flagcdn.com/w320/gf.png,2025-09-24 15:33:04
-CZ,Czechia,Czech Republic,Prague,Europe,Central Europe,10698896,78865.0,"Czech, Slovak",Czech koruna,https://flagcdn.com/w320/cz.png,2025-09-24 15:33:04
-PA,Panama,Republic of Panama,Panama City,Americas,Central America,4314768,75417.0,Spanish,"Panamanian balboa, United States dollar",https://flagcdn.com/w320/pa.png,2025-09-24 15:33:04
-SL,Sierra Leone,Republic of Sierra Leone,Freetown,Africa,Western Africa,7976985,71740.0,English,Leone,https://flagcdn.com/w320/sl.png,2025-09-24 15:33:04
-IE,Ireland,Republic of Ireland,Dublin,Europe,Northern Europe,4994724,70273.0,"English, Irish",Euro,https://flagcdn.com/w320/ie.png,2025-09-24 15:33:04
-GE,Georgia,Georgia,Tbilisi,Asia,Western Asia,3714000,69700.0,Georgian,lari,https://flagcdn.com/w320/ge.png,2025-09-24 15:33:04
-LK,Sri Lanka,Democratic Socialist Republic of Sri Lanka,Sri Jayawardenepura Kotte,Asia,Southern Asia,21919000,65610.0,"Sinhala, Tamil",Sri Lankan rupee,https://flagcdn.com/w320/lk.png,2025-09-24 15:33:04
-LT,Lithuania,Republic of Lithuania,Vilnius,Europe,Northern Europe,2794700,65300.0,Lithuanian,Euro,https://flagcdn.com/w320/lt.png,2025-09-24 15:33:04
-LV,Latvia,Republic of Latvia,Riga,Europe,Northern Europe,1901548,64559.0,Latvian,Euro,https://flagcdn.com/w320/lv.png,2025-09-24 15:33:04
-SJ,Svalbard and Jan Mayen,Svalbard og Jan Mayen,Longyearbyen,Europe,Northern Europe,2562,61399.0,Norwegian,krone,https://flagcdn.com/w320/sj.png,2025-09-24 15:33:04
-TG,Togo,Togolese Republic,Lomé,Africa,Western Africa,8278737,56785.0,French,West African CFA franc,https://flagcdn.com/w320/tg.png,2025-09-24 15:33:04
-HR,Croatia,Republic of Croatia,Zagreb,Europe,Southeast Europe,4047200,56594.0,Croatian,Euro,https://flagcdn.com/w320/hr.png,2025-09-24 15:33:04
-BA,Bosnia and Herzegovina,Bosnia and Herzegovina,Sarajevo,Europe,Southeast Europe,3280815,51209.0,"Bosnian, Croatian, Serbian",Bosnia and Herzegovina convertible mark,https://flagcdn.com/w320/ba.png,2025-09-24 15:33:04
-CR,Costa Rica,Republic of Costa Rica,San José,Americas,Central America,5094114,51100.0,Spanish,Costa Rican colón,https://flagcdn.com/w320/cr.png,2025-09-24 15:33:04
-SK,Slovakia,Slovak Republic,Bratislava,Europe,Central Europe,5458827,49037.0,Slovak,Euro,https://flagcdn.com/w320/sk.png,2025-09-24 15:33:04
-DO,Dominican Republic,Dominican Republic,Santo Domingo,Americas,Caribbean,10847904,48671.0,Spanish,Dominican peso,https://flagcdn.com/w320/do.png,2025-09-24 15:33:04
-EE,Estonia,Republic of Estonia,Tallinn,Europe,Northern Europe,1331057,45227.0,Estonian,Euro,https://flagcdn.com/w320/ee.png,2025-09-24 15:33:04
-DK,Denmark,Kingdom of Denmark,Copenhagen,Europe,Northern Europe,5831404,43094.0,Danish,Danish krone,https://flagcdn.com/w320/dk.png,2025-09-24 15:33:04
-NL,Netherlands,Kingdom of the Netherlands,Amsterdam,Europe,Western Europe,16655799,41850.0,Dutch,Euro,https://flagcdn.com/w320/nl.png,2025-09-24 15:33:04
-CH,Switzerland,Swiss Confederation,Bern,Europe,Western Europe,8654622,41284.0,"French, Swiss German, Italian, Romansh",Swiss franc,https://flagcdn.com/w320/ch.png,2025-09-24 15:33:04
-BT,Bhutan,Kingdom of Bhutan,Thimphu,Asia,Southern Asia,771612,38394.0,Dzongkha,"Bhutanese ngultrum, Indian rupee",https://flagcdn.com/w320/bt.png,2025-09-24 15:33:04
-TW,Taiwan,Republic of China (Taiwan),Taipei,Asia,Eastern Asia,23503349,36193.0,Chinese,New Taiwan dollar,https://flagcdn.com/w320/tw.png,2025-09-24 15:33:04
-GW,Guinea-Bissau,Republic of Guinea-Bissau,Bissau,Africa,Western Africa,1967998,36125.0,"Portuguese, Upper Guinea Creole",West African CFA franc,https://flagcdn.com/w320/gw.png,2025-09-24 15:33:04
-MD,Moldova,Republic of Moldova,Chișinău,Europe,Eastern Europe,2617820,33846.0,Romanian,Moldovan leu,https://flagcdn.com/w320/md.png,2025-09-24 15:33:04
-BE,Belgium,Kingdom of Belgium,Brussels,Europe,Western Europe,11555997,30528.0,"German, French, Dutch",Euro,https://flagcdn.com/w320/be.png,2025-09-24 15:33:04
-LS,Lesotho,Kingdom of Lesotho,Maseru,Africa,Southern Africa,2142252,30355.0,"English, Sotho","Lesotho loti, South African rand",https://flagcdn.com/w320/ls.png,2025-09-24 15:33:04
-AM,Armenia,Republic of Armenia,Yerevan,Asia,Western Asia,2963234,29743.0,Armenian,Armenian dram,https://flagcdn.com/w320/am.png,2025-09-24 15:33:04
-SB,Solomon Islands,Solomon Islands,Honiara,Oceania,Melanesia,686878,28896.0,English,Solomon Islands dollar,https://flagcdn.com/w320/sb.png,2025-09-24 15:33:04
-AL,Albania,Republic of Albania,Tirana,Europe,Southeast Europe,2837743,28748.0,Albanian,Albanian lek,https://flagcdn.com/w320/al.png,2025-09-24 15:33:04
-GQ,Equatorial Guinea,Republic of Equatorial Guinea,Malabo,Africa,Middle Africa,1402985,28051.0,"French, Portuguese, Spanish",Central African CFA franc,https://flagcdn.com/w320/gq.png,2025-09-24 15:33:04
-BI,Burundi,Republic of Burundi,Gitega,Africa,Eastern Africa,11890781,27834.0,"French, Kirundi",Burundian franc,https://flagcdn.com/w320/bi.png,2025-09-24 15:33:04
-HT,Haiti,Republic of Haiti,Port-au-Prince,Americas,Caribbean,11402533,27750.0,"French, Haitian Creole",Haitian gourde,https://flagcdn.com/w320/ht.png,2025-09-24 15:33:04
-RW,Rwanda,Republic of Rwanda,Kigali,Africa,Eastern Africa,12952209,26338.0,"English, French, Kinyarwanda",Rwandan franc,https://flagcdn.com/w320/rw.png,2025-09-24 15:33:04
-MK,North Macedonia,Republic of North Macedonia,Skopje,Europe,Southeast Europe,2077132,25713.0,Macedonian,denar,https://flagcdn.com/w320/mk.png,2025-09-24 15:33:04
-DJ,Djibouti,Republic of Djibouti,Djibouti,Africa,Eastern Africa,988002,23200.0,"Arabic, French",Djiboutian franc,https://flagcdn.com/w320/dj.png,2025-09-24 15:33:04
-BZ,Belize,Belize,Belmopan,Americas,Central America,397621,22966.0,"Belizean Creole, English, Spanish",Belize dollar,https://flagcdn.com/w320/bz.png,2025-09-24 15:33:04
-SV,El Salvador,Republic of El Salvador,San Salvador,Americas,Central America,6486201,21041.0,Spanish,United States dollar,https://flagcdn.com/w320/sv.png,2025-09-24 15:33:04
-IL,Israel,State of Israel,Jerusalem,Asia,Western Asia,9216900,20770.0,"Arabic, Hebrew",Israeli new shekel,https://flagcdn.com/w320/il.png,2025-09-24 15:33:04
-SI,Slovenia,Republic of Slovenia,Ljubljana,Europe,Central Europe,2100126,20273.0,Slovene,Euro,https://flagcdn.com/w320/si.png,2025-09-24 15:33:04
-NC,New Caledonia,New Caledonia,Nouméa,Oceania,Melanesia,271960,18575.0,French,CFP franc,https://flagcdn.com/w320/nc.png,2025-09-24 15:33:04
-FJ,Fiji,Republic of Fiji,Suva,Oceania,Melanesia,896444,18272.0,"English, Fijian, Fiji Hindi",Fijian dollar,https://flagcdn.com/w320/fj.png,2025-09-24 15:33:04
-KW,Kuwait,State of Kuwait,Kuwait City,Asia,Western Asia,4270563,17818.0,Arabic,Kuwaiti dinar,https://flagcdn.com/w320/kw.png,2025-09-24 15:33:04
-SZ,Eswatini,Kingdom of Eswatini,Mbabane,Africa,Southern Africa,1160164,17364.0,"English, Swazi","Swazi lilangeni, South African rand",https://flagcdn.com/w320/sz.png,2025-09-24 15:33:04
-TL,Timor-Leste,Democratic Republic of Timor-Leste,Dili,Asia,South-Eastern Asia,1318442,14874.0,"Portuguese, Tetum",United States dollar,https://flagcdn.com/w320/tl.png,2025-09-24 15:33:04
-BS,Bahamas,Commonwealth of the Bahamas,Nassau,Americas,Caribbean,393248,13943.0,English,"Bahamian dollar, United States dollar",https://flagcdn.com/w320/bs.png,2025-09-24 15:33:04
-ME,Montenegro,Montenegro,Podgorica,Europe,Southeast Europe,621718,13812.0,Montenegrin,Euro,https://flagcdn.com/w320/me.png,2025-09-24 15:33:04
-VU,Vanuatu,Republic of Vanuatu,Port Vila,Oceania,Melanesia,307150,12189.0,"Bislama, English, French",Vanuatu vatu,https://flagcdn.com/w320/vu.png,2025-09-24 15:33:04
-FK,Falkland Islands,Falkland Islands,Stanley,Americas,South America,2563,12173.0,English,Falkland Islands pound,https://flagcdn.com/w320/fk.png,2025-09-24 15:33:04
-QA,Qatar,State of Qatar,Doha,Asia,Western Asia,2881060,11586.0,Arabic,Qatari riyal,https://flagcdn.com/w320/qa.png,2025-09-24 15:33:04
-JM,Jamaica,Jamaica,Kingston,Americas,Caribbean,2961161,10991.0,"English, Jamaican Patois",Jamaican dollar,https://flagcdn.com/w320/jm.png,2025-09-24 15:33:04
-XK,Kosovo,Republic of Kosovo,Pristina,Europe,Southeast Europe,1775378,10908.0,"Albanian, Serbian",Euro,https://flagcdn.com/w320/xk.png,2025-09-24 15:33:04
-GM,Gambia,Republic of the Gambia,Banjul,Africa,Western Africa,2416664,10689.0,English,dalasi,https://flagcdn.com/w320/gm.png,2025-09-24 15:33:04
-LB,Lebanon,Lebanese Republic,Beirut,Asia,Western Asia,6825442,10452.0,"Arabic, French",Lebanese pound,https://flagcdn.com/w320/lb.png,2025-09-24 15:33:04
-CY,Cyprus,Republic of Cyprus,Nicosia,Europe,Southern Europe,1207361,9251.0,"Greek, Turkish",Euro,https://flagcdn.com/w320/cy.png,2025-09-24 15:33:04
-PR,Puerto Rico,Commonwealth of Puerto Rico,San Juan,Americas,Caribbean,3194034,8870.0,"English, Spanish",United States dollar,https://flagcdn.com/w320/pr.png,2025-09-24 15:33:04
-TF,French Southern and Antarctic Lands,Territory of the French Southern and Antarctic Lands,Port-aux-Français,Antarctic,,400,7747.0,French,Euro,https://flagcdn.com/w320/tf.png,2025-09-24 15:33:04
-PS,Palestine,State of Palestine,Ramallah,Asia,Western Asia,4803269,6220.0,Arabic,"Egyptian pound, Israeli new shekel, Jordanian dinar",https://flagcdn.com/w320/ps.png,2025-09-24 15:33:04
-BN,Brunei,"Nation of Brunei, Abode of Peace",Bandar Seri Begawan,Asia,South-Eastern Asia,437483,5765.0,Malay,"Brunei dollar, Singapore dollar",https://flagcdn.com/w320/bn.png,2025-09-24 15:33:04
-TT,Trinidad and Tobago,Republic of Trinidad and Tobago,Port of Spain,Americas,Caribbean,1399491,5130.0,English,Trinidad and Tobago dollar,https://flagcdn.com/w320/tt.png,2025-09-24 15:33:04
-PF,French Polynesia,French Polynesia,Papeetē,Oceania,Polynesia,280904,4167.0,French,CFP franc,https://flagcdn.com/w320/pf.png,2025-09-24 15:33:04
-CV,Cape Verde,Republic of Cabo Verde,Praia,Africa,Western Africa,555988,4033.0,Portuguese,Cape Verdean escudo,https://flagcdn.com/w320/cv.png,2025-09-24 15:33:04
-GS,South Georgia,South Georgia and the South Sandwich Islands,King Edward Point,Antarctic,,30,3903.0,English,British pound,https://flagcdn.com/w320/gs.png,2025-09-24 15:33:04
-WS,Samoa,Independent State of Samoa,Apia,Oceania,Polynesia,198410,2842.0,"English, Samoan",Samoan tālā,https://flagcdn.com/w320/ws.png,2025-09-24 15:33:04
-LU,Luxembourg,Grand Duchy of Luxembourg,Luxembourg,Europe,Western Europe,632275,2586.0,"German, French, Luxembourgish",Euro,https://flagcdn.com/w320/lu.png,2025-09-24 15:33:04
-RE,Réunion,Réunion Island,Saint-Denis,Africa,Eastern Africa,840974,2511.0,French,Euro,https://flagcdn.com/w320/re.png,2025-09-24 15:33:04
-MU,Mauritius,Republic of Mauritius,Port Louis,Africa,Eastern Africa,1265740,2040.0,"English, French, Mauritian Creole",Mauritian rupee,https://flagcdn.com/w320/mu.png,2025-09-24 15:33:04
-KM,Comoros,Union of the Comoros,Moroni,Africa,Eastern Africa,869595,1862.0,"Arabic, French, Comorian",Comorian franc,https://flagcdn.com/w320/km.png,2025-09-24 15:33:04
-GP,Guadeloupe,Guadeloupe,Basse-Terre,Americas,Caribbean,400132,1628.0,French,Euro,https://flagcdn.com/w320/gp.png,2025-09-24 15:33:04
-AX,Åland Islands,Åland Islands,Mariehamn,Europe,Northern Europe,29458,1580.0,Swedish,Euro,https://flagcdn.com/w320/ax.png,2025-09-24 15:33:04
-FO,Faroe Islands,Faroe Islands,Tórshavn,Europe,Northern Europe,48865,1393.0,"Danish, Faroese","Danish krone, Faroese króna",https://flagcdn.com/w320/fo.png,2025-09-24 15:33:04
-MQ,Martinique,Martinique,Fort-de-France,Americas,Caribbean,378243,1128.0,French,Euro,https://flagcdn.com/w320/mq.png,2025-09-24 15:33:04
-HK,Hong Kong,Hong Kong Special Administrative Region of the People's Republic of China,City of Victoria,Asia,Eastern Asia,7500700,1104.0,"English, Chinese",Hong Kong dollar,https://flagcdn.com/w320/hk.png,2025-09-24 15:33:04
-ST,São Tomé and Príncipe,Democratic Republic of São Tomé and Príncipe,São Tomé,Africa,Middle Africa,219161,964.0,Portuguese,São Tomé and Príncipe dobra,https://flagcdn.com/w320/st.png,2025-09-24 15:33:04
-TC,Turks and Caicos Islands,Turks and Caicos Islands,Cockburn Town,Americas,Caribbean,38718,948.0,English,United States dollar,https://flagcdn.com/w320/tc.png,2025-09-24 15:33:04
-KI,Kiribati,Independent and Sovereign Republic of Kiribati,South Tarawa,Oceania,Micronesia,119446,811.0,"English, Gilbertese","Australian dollar, Kiribati dollar",https://flagcdn.com/w320/ki.png,2025-09-24 15:33:04
-BH,Bahrain,Kingdom of Bahrain,Manama,Asia,Western Asia,1701583,765.0,Arabic,Bahraini dinar,https://flagcdn.com/w320/bh.png,2025-09-24 15:33:04
-DM,Dominica,Commonwealth of Dominica,Roseau,Americas,Caribbean,71991,751.0,English,Eastern Caribbean dollar,https://flagcdn.com/w320/dm.png,2025-09-24 15:33:04
-TO,Tonga,Kingdom of Tonga,Nuku'alofa,Oceania,Polynesia,105697,747.0,"English, Tongan",Tongan paʻanga,https://flagcdn.com/w320/to.png,2025-09-24 15:33:04
-SG,Singapore,Republic of Singapore,Singapore,Asia,South-Eastern Asia,5685807,710.0,"English, Chinese, Malay, Tamil",Singapore dollar,https://flagcdn.com/w320/sg.png,2025-09-24 15:33:04
-FM,Micronesia,Federated States of Micronesia,Palikir,Oceania,Micronesia,115021,702.0,English,United States dollar,https://flagcdn.com/w320/fm.png,2025-09-24 15:33:04
-LC,Saint Lucia,Saint Lucia,Castries,Americas,Caribbean,183629,616.0,English,Eastern Caribbean dollar,https://flagcdn.com/w320/lc.png,2025-09-24 15:33:04
-IM,Isle of Man,Isle of Man,Douglas,Europe,Northern Europe,85032,572.0,"English, Manx","British pound, Manx pound",https://flagcdn.com/w320/im.png,2025-09-24 15:33:04
-GU,Guam,Guam,Hagåtña,Oceania,Micronesia,168783,549.0,"Chamorro, English, Spanish",United States dollar,https://flagcdn.com/w320/gu.png,2025-09-24 15:33:04
-AD,Andorra,Principality of Andorra,Andorra la Vella,Europe,Southern Europe,77265,468.0,Catalan,Euro,https://flagcdn.com/w320/ad.png,2025-09-24 15:33:04
-MP,Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,Saipan,Oceania,Micronesia,57557,464.0,"Carolinian, Chamorro, English",United States dollar,https://flagcdn.com/w320/mp.png,2025-09-24 15:33:04
-PW,Palau,Republic of Palau,Ngerulmud,Oceania,Micronesia,18092,459.0,"English, Palauan",United States dollar,https://flagcdn.com/w320/pw.png,2025-09-24 15:33:04
-SC,Seychelles,Republic of Seychelles,Victoria,Africa,Eastern Africa,98462,452.0,"Seychellois Creole, English, French",Seychellois rupee,https://flagcdn.com/w320/sc.png,2025-09-24 15:33:04
-CW,Curaçao,Country of Curaçao,Willemstad,Americas,Caribbean,155014,444.0,"English, Dutch, Papiamento",Netherlands Antillean guilder,https://flagcdn.com/w320/cw.png,2025-09-24 15:33:04
-AG,Antigua and Barbuda,Antigua and Barbuda,Saint John's,Americas,Caribbean,97928,442.0,English,Eastern Caribbean dollar,https://flagcdn.com/w320/ag.png,2025-09-24 15:33:04
-BB,Barbados,Barbados,Bridgetown,Americas,Caribbean,287371,430.0,English,Barbadian dollar,https://flagcdn.com/w320/bb.png,2025-09-24 15:33:04
-HM,Heard Island and McDonald Islands,Heard Island and McDonald Islands,Não informado,Antarctic,,0,412.0,English,Não informado,https://flagcdn.com/w320/hm.png,2025-09-24 15:33:04
-SH,"Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension and Tristan da Cunha",Jamestown,Africa,Western Africa,53192,394.0,English,"Pound sterling, Saint Helena pound",https://flagcdn.com/w320/sh.png,2025-09-24 15:33:04
-VC,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Kingstown,Americas,Caribbean,110947,389.0,English,Eastern Caribbean dollar,https://flagcdn.com/w320/vc.png,2025-09-24 15:33:04
-YT,Mayotte,Department of Mayotte,Mamoudzou,Africa,Eastern Africa,226915,374.0,French,Euro,https://flagcdn.com/w320/yt.png,2025-09-24 15:33:04
-VI,United States Virgin Islands,Virgin Islands of the United States,Charlotte Amalie,Americas,Caribbean,106290,347.0,English,United States dollar,https://flagcdn.com/w320/vi.png,2025-09-24 15:33:04
-GD,Grenada,Grenada,St. George's,Americas,Caribbean,112519,344.0,English,Eastern Caribbean dollar,https://flagcdn.com/w320/gd.png,2025-09-24 15:33:04
-BQ,Caribbean Netherlands,"Bonaire, Sint Eustatius and Saba",Kralendijk,Americas,Caribbean,25987,328.0,"English, Dutch, Papiamento",United States dollar,https://flagcdn.com/w320/bq.png,2025-09-24 15:33:04
-MT,Malta,Republic of Malta,Valletta,Europe,Southern Europe,525285,316.0,"English, Maltese",Euro,https://flagcdn.com/w320/mt.png,2025-09-24 15:33:04
-MV,Maldives,Republic of the Maldives,Malé,Asia,Southern Asia,540542,300.0,Maldivian,Maldivian rufiyaa,https://flagcdn.com/w320/mv.png,2025-09-24 15:33:04
-KY,Cayman Islands,Cayman Islands,George Town,Americas,Caribbean,65720,264.0,English,Cayman Islands dollar,https://flagcdn.com/w320/ky.png,2025-09-24 15:33:04
-KN,Saint Kitts and Nevis,Federation of Saint Christopher and Nevis,Basseterre,Americas,Caribbean,53192,261.0,English,Eastern Caribbean dollar,https://flagcdn.com/w320/kn.png,2025-09-24 15:33:04
-NU,Niue,Niue,Alofi,Oceania,Polynesia,1470,260.0,"English, Niuean",New Zealand dollar,https://flagcdn.com/w320/nu.png,2025-09-24 15:33:04
-PM,Saint Pierre and Miquelon,Saint Pierre and Miquelon,Saint-Pierre,Americas,North America,6069,242.0,French,Euro,https://flagcdn.com/w320/pm.png,2025-09-24 15:33:04
-CK,Cook Islands,Cook Islands,Avarua,Oceania,Polynesia,18100,236.0,"English, Cook Islands Māori","Cook Islands dollar, New Zealand dollar",https://flagcdn.com/w320/ck.png,2025-09-24 15:33:04
-AS,American Samoa,American Samoa,Pago Pago,Oceania,Polynesia,55197,199.0,"English, Samoan",United States dollar,https://flagcdn.com/w320/as.png,2025-09-24 15:33:04
-MH,Marshall Islands,Republic of the Marshall Islands,Majuro,Oceania,Micronesia,59194,181.0,"English, Marshallese",United States dollar,https://flagcdn.com/w320/mh.png,2025-09-24 15:33:04
-AW,Aruba,Aruba,Oranjestad,Americas,Caribbean,106766,180.0,"Dutch, Papiamento",Aruban florin,https://flagcdn.com/w320/aw.png,2025-09-24 15:33:04
-LI,Liechtenstein,Principality of Liechtenstein,Vaduz,Europe,Western Europe,38137,160.0,German,Swiss franc,https://flagcdn.com/w320/li.png,2025-09-24 15:33:04
-VG,British Virgin Islands,Virgin Islands,Road Town,Americas,Caribbean,30237,151.0,English,United States dollar,https://flagcdn.com/w320/vg.png,2025-09-24 15:33:04
-WF,Wallis and Futuna,Territory of the Wallis and Futuna Islands,Mata-Utu,Oceania,Polynesia,11750,142.0,French,CFP franc,https://flagcdn.com/w320/wf.png,2025-09-24 15:33:04
-CX,Christmas Island,Territory of Christmas Island,Flying Fish Cove,Oceania,Australia and New Zealand,2072,135.0,English,Australian dollar,https://flagcdn.com/w320/cx.png,2025-09-24 15:33:04
-JE,Jersey,Bailiwick of Jersey,Saint Helier,Europe,Northern Europe,100800,116.0,"English, French, Jèrriais","British pound, Jersey pound",https://flagcdn.com/w320/je.png,2025-09-24 15:33:04
-MS,Montserrat,Montserrat,Plymouth,Americas,Caribbean,4922,102.0,English,Eastern Caribbean dollar,https://flagcdn.com/w320/ms.png,2025-09-24 15:33:04
-AI,Anguilla,Anguilla,The Valley,Americas,Caribbean,13452,91.0,English,Eastern Caribbean dollar,https://flagcdn.com/w320/ai.png,2025-09-24 15:33:04
-GG,Guernsey,Bailiwick of Guernsey,St. Peter Port,Europe,Northern Europe,62999,78.0,"English, French, Guernésiais","British pound, Guernsey pound",https://flagcdn.com/w320/gg.png,2025-09-24 15:33:04
-SM,San Marino,Republic of San Marino,City of San Marino,Europe,Southern Europe,33938,61.0,Italian,Euro,https://flagcdn.com/w320/sm.png,2025-09-24 15:33:04
-IO,British Indian Ocean Territory,British Indian Ocean Territory,Diego Garcia,Africa,Eastern Africa,3000,60.0,English,United States dollar,https://flagcdn.com/w320/io.png,2025-09-24 15:33:04
-BM,Bermuda,Bermuda,Hamilton,Americas,North America,63903,54.0,English,Bermudian dollar,https://flagcdn.com/w320/bm.png,2025-09-24 15:33:04
-MF,Saint Martin,Saint Martin,Marigot,Americas,Caribbean,38659,53.0,French,Euro,https://flagcdn.com/w320/mf.png,2025-09-24 15:33:04
-BV,Bouvet Island,Bouvet Island,Não informado,Antarctic,,0,49.0,Norwegian,Não informado,https://flagcdn.com/w320/bv.png,2025-09-24 15:33:04
-PN,Pitcairn Islands,Pitcairn Group of Islands,Adamstown,Oceania,Polynesia,56,47.0,English,New Zealand dollar,https://flagcdn.com/w320/pn.png,2025-09-24 15:33:04
-NF,Norfolk Island,Territory of Norfolk Island,Kingston,Oceania,Australia and New Zealand,2302,36.0,"English, Norfuk",Australian dollar,https://flagcdn.com/w320/nf.png,2025-09-24 15:33:04
-UM,United States Minor Outlying Islands,United States Minor Outlying Islands,Washington DC,Americas,North America,300,34.2,English,United States dollar,https://flagcdn.com/w320/um.png,2025-09-24 15:33:04
-SX,Sint Maarten,Sint Maarten,Philipsburg,Americas,Caribbean,40812,34.0,"English, French, Dutch",Netherlands Antillean guilder,https://flagcdn.com/w320/sx.png,2025-09-24 15:33:04
-MO,Macau,Macao Special Administrative Region of the People's Republic of China,Não informado,Asia,Eastern Asia,649342,30.0,"Portuguese, Chinese",Macanese pataca,https://flagcdn.com/w320/mo.png,2025-09-24 15:33:04
-TV,Tuvalu,Tuvalu,Funafuti,Oceania,Polynesia,11792,26.0,"English, Tuvaluan","Australian dollar, Tuvaluan dollar",https://flagcdn.com/w320/tv.png,2025-09-24 15:33:04
-BL,Saint Barthélemy,Collectivity of Saint Barthélemy,Gustavia,Americas,Caribbean,4255,21.0,French,Euro,https://flagcdn.com/w320/bl.png,2025-09-24 15:33:04
-NR,Nauru,Republic of Nauru,Yaren,Oceania,Micronesia,10834,21.0,"English, Nauru",Australian dollar,https://flagcdn.com/w320/nr.png,2025-09-24 15:33:04
-CC,Cocos (Keeling) Islands,Territory of the Cocos (Keeling) Islands,West Island,Oceania,Australia and New Zealand,544,14.0,English,Australian dollar,https://flagcdn.com/w320/cc.png,2025-09-24 15:33:04
-TK,Tokelau,Tokelau,Fakaofo,Oceania,Polynesia,1411,12.0,"English, Samoan, Tokelauan",New Zealand dollar,https://flagcdn.com/w320/tk.png,2025-09-24 15:33:04
-GI,Gibraltar,Gibraltar,Gibraltar,Europe,Southern Europe,33691,6.0,English,Gibraltar pound,https://flagcdn.com/w320/gi.png,2025-09-24 15:33:04
-MC,Monaco,Principality of Monaco,Monaco,Europe,Western Europe,39244,2.02,French,Euro,https://flagcdn.com/w320/mc.png,2025-09-24 15:33:04
-VA,Vatican City,Vatican City State,Vatican City,Europe,Southern Europe,451,0.44,"Italian, Latin",Euro,https://flagcdn.com/w320/va.png,2025-09-24 15:33:04
+RU,Russia,Russian Federation,Moscow,Europe,Eastern Europe,144104080,17098242.0,Russian,Russian ruble,https://flagcdn.com/w320/ru.png,2025-09-25 14:37:17
+AQ,Antarctica,Antarctica,Não informado,Antarctic,,1000,14000000.0,Não informado,Não informado,https://flagcdn.com/w320/aq.png,2025-09-25 14:37:17
+CA,Canada,Canada,Ottawa,Americas,North America,38005238,9984670.0,"English, French",Canadian dollar,https://flagcdn.com/w320/ca.png,2025-09-25 14:37:17
+CN,China,People's Republic of China,Beijing,Asia,Eastern Asia,1402112000,9706961.0,Chinese,Chinese yuan,https://flagcdn.com/w320/cn.png,2025-09-25 14:37:17
+US,United States,United States of America,"Washington, D.C.",Americas,North America,329484123,9372610.0,English,United States dollar,https://flagcdn.com/w320/us.png,2025-09-25 14:37:17
+BR,Brazil,Federative Republic of Brazil,Brasília,Americas,South America,212559409,8515767.0,Portuguese,Brazilian real,https://flagcdn.com/w320/br.png,2025-09-25 14:37:17
+AU,Australia,Commonwealth of Australia,Canberra,Oceania,Australia and New Zealand,25687041,7692024.0,English,Australian dollar,https://flagcdn.com/w320/au.png,2025-09-25 14:37:17
+IN,India,Republic of India,New Delhi,Asia,Southern Asia,1380004385,3287590.0,"English, Hindi, Tamil",Indian rupee,https://flagcdn.com/w320/in.png,2025-09-25 14:37:17
+AR,Argentina,Argentine Republic,Buenos Aires,Americas,South America,45376763,2780400.0,"Guaraní, Spanish",Argentine peso,https://flagcdn.com/w320/ar.png,2025-09-25 14:37:17
+KZ,Kazakhstan,Republic of Kazakhstan,Astana,Asia,Central Asia,18754440,2724900.0,"Kazakh, Russian",Kazakhstani tenge,https://flagcdn.com/w320/kz.png,2025-09-25 14:37:17
+DZ,Algeria,People's Democratic Republic of Algeria,Algiers,Africa,Northern Africa,44700000,2381741.0,Arabic,Algerian dinar,https://flagcdn.com/w320/dz.png,2025-09-25 14:37:17
+CD,DR Congo,Democratic Republic of the Congo,Kinshasa,Africa,Middle Africa,108407721,2344858.0,"French, Kikongo, Lingala, Tshiluba, Swahili",Congolese franc,https://flagcdn.com/w320/cd.png,2025-09-25 14:37:17
+GL,Greenland,Greenland,Nuuk,Americas,North America,56367,2166086.0,Greenlandic,krone,https://flagcdn.com/w320/gl.png,2025-09-25 14:37:17
+SA,Saudi Arabia,Kingdom of Saudi Arabia,Riyadh,Asia,Western Asia,34813867,2149690.0,Arabic,Saudi riyal,https://flagcdn.com/w320/sa.png,2025-09-25 14:37:17
+MX,Mexico,United Mexican States,Mexico City,Americas,North America,128932753,1964375.0,Spanish,Mexican peso,https://flagcdn.com/w320/mx.png,2025-09-25 14:37:17
+ID,Indonesia,Republic of Indonesia,Jakarta,Asia,South-Eastern Asia,273523621,1904569.0,Indonesian,Indonesian rupiah,https://flagcdn.com/w320/id.png,2025-09-25 14:37:17
+SD,Sudan,Republic of the Sudan,Khartoum,Africa,Northern Africa,43849269,1886068.0,"Arabic, English",Sudanese pound,https://flagcdn.com/w320/sd.png,2025-09-25 14:37:17
+LY,Libya,State of Libya,Tripoli,Africa,Northern Africa,6871287,1759540.0,Arabic,Libyan dinar,https://flagcdn.com/w320/ly.png,2025-09-25 14:37:17
+IR,Iran,Islamic Republic of Iran,Tehran,Asia,Southern Asia,83992953,1648195.0,Persian (Farsi),Iranian rial,https://flagcdn.com/w320/ir.png,2025-09-25 14:37:17
+MN,Mongolia,Mongolia,Ulan Bator,Asia,Eastern Asia,3278292,1564110.0,Mongolian,Mongolian tögrög,https://flagcdn.com/w320/mn.png,2025-09-25 14:37:17
+PE,Peru,Republic of Peru,Lima,Americas,South America,32971846,1285216.0,"Aymara, Quechua, Spanish",Peruvian sol,https://flagcdn.com/w320/pe.png,2025-09-25 14:37:17
+TD,Chad,Republic of Chad,N'Djamena,Africa,Middle Africa,16425859,1284000.0,"Arabic, French",Central African CFA franc,https://flagcdn.com/w320/td.png,2025-09-25 14:37:17
+NE,Niger,Republic of Niger,Niamey,Africa,Western Africa,24206636,1267000.0,French,West African CFA franc,https://flagcdn.com/w320/ne.png,2025-09-25 14:37:17
+AO,Angola,Republic of Angola,Luanda,Africa,Middle Africa,32866268,1246700.0,Portuguese,Angolan kwanza,https://flagcdn.com/w320/ao.png,2025-09-25 14:37:17
+ML,Mali,Republic of Mali,Bamako,Africa,Western Africa,20250834,1240192.0,French,West African CFA franc,https://flagcdn.com/w320/ml.png,2025-09-25 14:37:17
+ZA,South Africa,Republic of South Africa,Pretoria,Africa,Southern Africa,59308690,1221037.0,"Afrikaans, English, Southern Ndebele, Northern Sotho, Southern Sotho, Swazi, Tswana, Tsonga, Venda, Xhosa, Zulu",South African rand,https://flagcdn.com/w320/za.png,2025-09-25 14:37:17
+CO,Colombia,Republic of Colombia,Bogotá,Americas,South America,50882884,1141748.0,Spanish,Colombian peso,https://flagcdn.com/w320/co.png,2025-09-25 14:37:17
+ET,Ethiopia,Federal Democratic Republic of Ethiopia,Addis Ababa,Africa,Eastern Africa,114963583,1104300.0,Amharic,Ethiopian birr,https://flagcdn.com/w320/et.png,2025-09-25 14:37:17
+BO,Bolivia,Plurinational State of Bolivia,Sucre,Americas,South America,11673029,1098581.0,"Aymara, Guaraní, Quechua, Spanish",Bolivian boliviano,https://flagcdn.com/w320/bo.png,2025-09-25 14:37:17
+MR,Mauritania,Islamic Republic of Mauritania,Nouakchott,Africa,Western Africa,4649660,1030700.0,Arabic,Mauritanian ouguiya,https://flagcdn.com/w320/mr.png,2025-09-25 14:37:17
+EG,Egypt,Arab Republic of Egypt,Cairo,Africa,Northern Africa,102334403,1002450.0,Arabic,Egyptian pound,https://flagcdn.com/w320/eg.png,2025-09-25 14:37:17
+TZ,Tanzania,United Republic of Tanzania,Dodoma,Africa,Eastern Africa,59734213,945087.0,"English, Swahili",Tanzanian shilling,https://flagcdn.com/w320/tz.png,2025-09-25 14:37:17
+NG,Nigeria,Federal Republic of Nigeria,Abuja,Africa,Western Africa,206139587,923768.0,English,Nigerian naira,https://flagcdn.com/w320/ng.png,2025-09-25 14:37:17
+VE,Venezuela,Bolivarian Republic of Venezuela,Caracas,Americas,South America,28435943,916445.0,Spanish,Venezuelan bolívar soberano,https://flagcdn.com/w320/ve.png,2025-09-25 14:37:17
+PK,Pakistan,Islamic Republic of Pakistan,Islamabad,Asia,Southern Asia,220892331,881912.0,"English, Urdu",Pakistani rupee,https://flagcdn.com/w320/pk.png,2025-09-25 14:37:17
+NA,Namibia,Republic of Namibia,Windhoek,Africa,Southern Africa,2540916,825615.0,"Afrikaans, German, English, Herero, Khoekhoe, Kwangali, Lozi, Ndonga, Tswana","Namibian dollar, South African rand",https://flagcdn.com/w320/na.png,2025-09-25 14:37:17
+MZ,Mozambique,Republic of Mozambique,Maputo,Africa,Eastern Africa,31255435,801590.0,Portuguese,Mozambican metical,https://flagcdn.com/w320/mz.png,2025-09-25 14:37:17
+TR,Turkey,Republic of Turkey,Ankara,Asia,Western Asia,84339067,783562.0,Turkish,Turkish lira,https://flagcdn.com/w320/tr.png,2025-09-25 14:37:17
+CL,Chile,Republic of Chile,Santiago,Americas,South America,19116209,756102.0,Spanish,Chilean peso,https://flagcdn.com/w320/cl.png,2025-09-25 14:37:17
+ZM,Zambia,Republic of Zambia,Lusaka,Africa,Eastern Africa,18383956,752612.0,English,Zambian kwacha,https://flagcdn.com/w320/zm.png,2025-09-25 14:37:17
+MM,Myanmar,Republic of the Union of Myanmar,Naypyidaw,Asia,South-Eastern Asia,54409794,676578.0,Burmese,Burmese kyat,https://flagcdn.com/w320/mm.png,2025-09-25 14:37:17
+AF,Afghanistan,Islamic Republic of Afghanistan,Kabul,Asia,Southern Asia,40218234,652230.0,"Dari, Pashto, Turkmen",Afghan afghani,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png,2025-09-25 14:37:17
+SO,Somalia,Federal Republic of Somalia,Mogadishu,Africa,Eastern Africa,15893219,637657.0,"Arabic, Somali",Somali shilling,https://flagcdn.com/w320/so.png,2025-09-25 14:37:17
+CF,Central African Republic,Central African Republic,Bangui,Africa,Middle Africa,4829764,622984.0,"French, Sango",Central African CFA franc,https://flagcdn.com/w320/cf.png,2025-09-25 14:37:17
+SS,South Sudan,Republic of South Sudan,Juba,Africa,Middle Africa,11193729,619745.0,English,South Sudanese pound,https://flagcdn.com/w320/ss.png,2025-09-25 14:37:17
+UA,Ukraine,Ukraine,Kyiv,Europe,Eastern Europe,44134693,603500.0,Ukrainian,Ukrainian hryvnia,https://flagcdn.com/w320/ua.png,2025-09-25 14:37:17
+MG,Madagascar,Republic of Madagascar,Antananarivo,Africa,Eastern Africa,27691019,587041.0,"French, Malagasy",Malagasy ariary,https://flagcdn.com/w320/mg.png,2025-09-25 14:37:17
+BW,Botswana,Republic of Botswana,Gaborone,Africa,Southern Africa,2351625,582000.0,"English, Tswana",Botswana pula,https://flagcdn.com/w320/bw.png,2025-09-25 14:37:17
+KE,Kenya,Republic of Kenya,Nairobi,Africa,Eastern Africa,53771300,580367.0,"English, Swahili",Kenyan shilling,https://flagcdn.com/w320/ke.png,2025-09-25 14:37:17
+FR,France,French Republic,Paris,Europe,Western Europe,67391582,551695.0,French,Euro,https://flagcdn.com/w320/fr.png,2025-09-25 14:37:17
+YE,Yemen,Republic of Yemen,Sana'a,Asia,Western Asia,29825968,527968.0,Arabic,Yemeni rial,https://flagcdn.com/w320/ye.png,2025-09-25 14:37:17
+TH,Thailand,Kingdom of Thailand,Bangkok,Asia,South-Eastern Asia,69799978,513120.0,Thai,Thai baht,https://flagcdn.com/w320/th.png,2025-09-25 14:37:17
+ES,Spain,Kingdom of Spain,Madrid,Europe,Southern Europe,47351567,505992.0,"Spanish, Catalan, Basque, Galician",Euro,https://flagcdn.com/w320/es.png,2025-09-25 14:37:17
+TM,Turkmenistan,Turkmenistan,Ashgabat,Asia,Central Asia,6031187,488100.0,"Russian, Turkmen",Turkmenistan manat,https://flagcdn.com/w320/tm.png,2025-09-25 14:37:17
+CM,Cameroon,Republic of Cameroon,Yaoundé,Africa,Middle Africa,26545864,475442.0,"English, French",Central African CFA franc,https://flagcdn.com/w320/cm.png,2025-09-25 14:37:17
+PG,Papua New Guinea,Independent State of Papua New Guinea,Port Moresby,Oceania,Melanesia,8947027,462840.0,"English, Hiri Motu, Tok Pisin",Papua New Guinean kina,https://flagcdn.com/w320/pg.png,2025-09-25 14:37:17
+SE,Sweden,Kingdom of Sweden,Stockholm,Europe,Northern Europe,10353442,450295.0,Swedish,Swedish krona,https://flagcdn.com/w320/se.png,2025-09-25 14:37:17
+UZ,Uzbekistan,Republic of Uzbekistan,Tashkent,Asia,Central Asia,34232050,447400.0,"Russian, Uzbek",Uzbekistani soʻm,https://flagcdn.com/w320/uz.png,2025-09-25 14:37:17
+MA,Morocco,Kingdom of Morocco,Rabat,Africa,Northern Africa,36910558,446550.0,"Arabic, Berber",Moroccan dirham,https://flagcdn.com/w320/ma.png,2025-09-25 14:37:17
+IQ,Iraq,Republic of Iraq,Baghdad,Asia,Western Asia,40222503,438317.0,"Arabic, Aramaic, Sorani",Iraqi dinar,https://flagcdn.com/w320/iq.png,2025-09-25 14:37:17
+PY,Paraguay,Republic of Paraguay,Asunción,Americas,South America,7132530,406752.0,"Guaraní, Spanish",Paraguayan guaraní,https://flagcdn.com/w320/py.png,2025-09-25 14:37:17
+ZW,Zimbabwe,Republic of Zimbabwe,Harare,Africa,Southern Africa,14862927,390757.0,"Chibarwe, English, Kalanga, Khoisan, Ndau, Northern Ndebele, Chewa, Shona, Sotho, Tonga, Tswana, Tsonga, Venda, Xhosa, Zimbabwean Sign Language",Zimbabwean dollar,https://flagcdn.com/w320/zw.png,2025-09-25 14:37:17
+JP,Japan,Japan,Tokyo,Asia,Eastern Asia,125836021,377930.0,Japanese,Japanese yen,https://flagcdn.com/w320/jp.png,2025-09-25 14:37:17
+DE,Germany,Federal Republic of Germany,Berlin,Europe,Western Europe,83240525,357114.0,German,Euro,https://flagcdn.com/w320/de.png,2025-09-25 14:37:17
+PH,Philippines,Republic of the Philippines,Manila,Asia,South-Eastern Asia,109581085,342353.0,"English, Filipino",Philippine peso,https://flagcdn.com/w320/ph.png,2025-09-25 14:37:17
+CG,Republic of the Congo,Republic of the Congo,Brazzaville,Africa,Middle Africa,5657000,342000.0,"French, Kikongo, Lingala",Central African CFA franc,https://flagcdn.com/w320/cg.png,2025-09-25 14:37:17
+FI,Finland,Republic of Finland,Helsinki,Europe,Northern Europe,5530719,338424.0,"Finnish, Swedish",Euro,https://flagcdn.com/w320/fi.png,2025-09-25 14:37:17
+VN,Vietnam,Socialist Republic of Vietnam,Hanoi,Asia,South-Eastern Asia,97338583,331212.0,Vietnamese,Vietnamese đồng,https://flagcdn.com/w320/vn.png,2025-09-25 14:37:17
+MY,Malaysia,Malaysia,Kuala Lumpur,Asia,South-Eastern Asia,32365998,330803.0,"English, Malay",Malaysian ringgit,https://flagcdn.com/w320/my.png,2025-09-25 14:37:17
+NO,Norway,Kingdom of Norway,Oslo,Europe,Northern Europe,5379475,323802.0,"Norwegian Nynorsk, Norwegian Bokmål, Sami",Norwegian krone,https://flagcdn.com/w320/no.png,2025-09-25 14:37:17
+CI,Ivory Coast,Republic of Côte d'Ivoire,Yamoussoukro,Africa,Western Africa,26378275,322463.0,French,West African CFA franc,https://flagcdn.com/w320/ci.png,2025-09-25 14:37:17
+PL,Poland,Republic of Poland,Warsaw,Europe,Central Europe,37950802,312679.0,Polish,Polish złoty,https://flagcdn.com/w320/pl.png,2025-09-25 14:37:17
+OM,Oman,Sultanate of Oman,Muscat,Asia,Western Asia,5106622,309500.0,Arabic,Omani rial,https://flagcdn.com/w320/om.png,2025-09-25 14:37:17
+IT,Italy,Italian Republic,Rome,Europe,Southern Europe,59554023,301336.0,"Italian, Catalan",Euro,https://flagcdn.com/w320/it.png,2025-09-25 14:37:17
+EC,Ecuador,Republic of Ecuador,Quito,Americas,South America,17643060,276841.0,Spanish,United States dollar,https://flagcdn.com/w320/ec.png,2025-09-25 14:37:17
+BF,Burkina Faso,Burkina Faso,Ouagadougou,Africa,Western Africa,20903278,272967.0,French,West African CFA franc,https://flagcdn.com/w320/bf.png,2025-09-25 14:37:17
+NZ,New Zealand,New Zealand,Wellington,Oceania,Australia and New Zealand,5084300,270467.0,"English, Māori, New Zealand Sign Language",New Zealand dollar,https://flagcdn.com/w320/nz.png,2025-09-25 14:37:17
+GA,Gabon,Gabonese Republic,Libreville,Africa,Middle Africa,2225728,267668.0,French,Central African CFA franc,https://flagcdn.com/w320/ga.png,2025-09-25 14:37:17
+EH,Western Sahara,Sahrawi Arab Democratic Republic,El Aaiún,Africa,Northern Africa,510713,266000.0,"Berber, Hassaniya, Spanish","Algerian dinar, Moroccan dirham, Mauritanian ouguiya",https://flagcdn.com/w320/eh.png,2025-09-25 14:37:17
+GN,Guinea,Republic of Guinea,Conakry,Africa,Western Africa,13132792,245857.0,French,Guinean franc,https://flagcdn.com/w320/gn.png,2025-09-25 14:37:17
+GB,United Kingdom,United Kingdom of Great Britain and Northern Ireland,London,Europe,Northern Europe,67215293,242900.0,English,British pound,https://flagcdn.com/w320/gb.png,2025-09-25 14:37:17
+UG,Uganda,Republic of Uganda,Kampala,Africa,Eastern Africa,45741000,241550.0,"English, Swahili",Ugandan shilling,https://flagcdn.com/w320/ug.png,2025-09-25 14:37:17
+GH,Ghana,Republic of Ghana,Accra,Africa,Western Africa,31072945,238533.0,English,Ghanaian cedi,https://flagcdn.com/w320/gh.png,2025-09-25 14:37:17
+RO,Romania,Romania,Bucharest,Europe,Southeast Europe,19286123,238391.0,Romanian,Romanian leu,https://flagcdn.com/w320/ro.png,2025-09-25 14:37:17
+LA,Laos,Lao People's Democratic Republic,Vientiane,Asia,South-Eastern Asia,7275556,236800.0,Lao,Lao kip,https://flagcdn.com/w320/la.png,2025-09-25 14:37:17
+GY,Guyana,Co-operative Republic of Guyana,Georgetown,Americas,South America,786559,214969.0,English,Guyanese dollar,https://flagcdn.com/w320/gy.png,2025-09-25 14:37:17
+BY,Belarus,Republic of Belarus,Minsk,Europe,Eastern Europe,9398861,207600.0,"Belarusian, Russian",Belarusian ruble,https://flagcdn.com/w320/by.png,2025-09-25 14:37:17
+KG,Kyrgyzstan,Kyrgyz Republic,Bishkek,Asia,Central Asia,6591600,199951.0,"Kyrgyz, Russian",Kyrgyzstani som,https://flagcdn.com/w320/kg.png,2025-09-25 14:37:17
+SN,Senegal,Republic of Senegal,Dakar,Africa,Western Africa,16743930,196722.0,French,West African CFA franc,https://flagcdn.com/w320/sn.png,2025-09-25 14:37:17
+SY,Syria,Syrian Arab Republic,Damascus,Asia,Western Asia,17500657,185180.0,Arabic,Syrian pound,https://flagcdn.com/w320/sy.png,2025-09-25 14:37:17
+KH,Cambodia,Kingdom of Cambodia,Phnom Penh,Asia,South-Eastern Asia,16718971,181035.0,Khmer,"Cambodian riel, United States dollar",https://flagcdn.com/w320/kh.png,2025-09-25 14:37:17
+UY,Uruguay,Oriental Republic of Uruguay,Montevideo,Americas,South America,3473727,181034.0,Spanish,Uruguayan peso,https://flagcdn.com/w320/uy.png,2025-09-25 14:37:17
+SR,Suriname,Republic of Suriname,Paramaribo,Americas,South America,586634,163820.0,Dutch,Surinamese dollar,https://flagcdn.com/w320/sr.png,2025-09-25 14:37:17
+TN,Tunisia,Tunisian Republic,Tunis,Africa,Northern Africa,11818618,163610.0,Arabic,Tunisian dinar,https://flagcdn.com/w320/tn.png,2025-09-25 14:37:17
+BD,Bangladesh,People's Republic of Bangladesh,Dhaka,Asia,Southern Asia,164689383,147570.0,Bengali,Bangladeshi taka,https://flagcdn.com/w320/bd.png,2025-09-25 14:37:17
+NP,Nepal,Federal Democratic Republic of Nepal,Kathmandu,Asia,Southern Asia,29136808,147181.0,Nepali,Nepalese rupee,https://flagcdn.com/w320/np.png,2025-09-25 14:37:17
+TJ,Tajikistan,Republic of Tajikistan,Dushanbe,Asia,Central Asia,9537642,143100.0,"Russian, Tajik",Tajikistani somoni,https://flagcdn.com/w320/tj.png,2025-09-25 14:37:17
+GR,Greece,Hellenic Republic,Athens,Europe,Southern Europe,10715549,131990.0,Greek,Euro,https://flagcdn.com/w320/gr.png,2025-09-25 14:37:17
+NI,Nicaragua,Republic of Nicaragua,Managua,Americas,Central America,6624554,130373.0,Spanish,Nicaraguan córdoba,https://flagcdn.com/w320/ni.png,2025-09-25 14:37:17
+KP,North Korea,Democratic People's Republic of Korea,Pyongyang,Asia,Eastern Asia,25778815,120538.0,Korean,North Korean won,https://flagcdn.com/w320/kp.png,2025-09-25 14:37:17
+MW,Malawi,Republic of Malawi,Lilongwe,Africa,Eastern Africa,19129955,118484.0,"English, Chewa",Malawian kwacha,https://flagcdn.com/w320/mw.png,2025-09-25 14:37:17
+ER,Eritrea,State of Eritrea,Asmara,Africa,Eastern Africa,5352000,117600.0,"Arabic, English, Tigrinya",Eritrean nakfa,https://flagcdn.com/w320/er.png,2025-09-25 14:37:17
+BJ,Benin,Republic of Benin,Porto-Novo,Africa,Western Africa,12123198,112622.0,French,West African CFA franc,https://flagcdn.com/w320/bj.png,2025-09-25 14:37:17
+HN,Honduras,Republic of Honduras,Tegucigalpa,Americas,Central America,9904608,112492.0,Spanish,Honduran lempira,https://flagcdn.com/w320/hn.png,2025-09-25 14:37:17
+LR,Liberia,Republic of Liberia,Monrovia,Africa,Western Africa,5057677,111369.0,English,Liberian dollar,https://flagcdn.com/w320/lr.png,2025-09-25 14:37:17
+BG,Bulgaria,Republic of Bulgaria,Sofia,Europe,Southeast Europe,6927288,110879.0,Bulgarian,Bulgarian lev,https://flagcdn.com/w320/bg.png,2025-09-25 14:37:17
+CU,Cuba,Republic of Cuba,Havana,Americas,Caribbean,11326616,109884.0,Spanish,"Cuban convertible peso, Cuban peso",https://flagcdn.com/w320/cu.png,2025-09-25 14:37:17
+GT,Guatemala,Republic of Guatemala,Guatemala City,Americas,Central America,16858333,108889.0,Spanish,Guatemalan quetzal,https://flagcdn.com/w320/gt.png,2025-09-25 14:37:17
+IS,Iceland,Iceland,Reykjavik,Europe,Northern Europe,366425,103000.0,Icelandic,Icelandic króna,https://flagcdn.com/w320/is.png,2025-09-25 14:37:17
+KR,South Korea,Republic of Korea,Seoul,Asia,Eastern Asia,51780579,100210.0,Korean,South Korean won,https://flagcdn.com/w320/kr.png,2025-09-25 14:37:17
+HU,Hungary,Hungary,Budapest,Europe,Central Europe,9749763,93028.0,Hungarian,Hungarian forint,https://flagcdn.com/w320/hu.png,2025-09-25 14:37:17
+PT,Portugal,Portuguese Republic,Lisbon,Europe,Southern Europe,10305564,92090.0,Portuguese,Euro,https://flagcdn.com/w320/pt.png,2025-09-25 14:37:17
+JO,Jordan,Hashemite Kingdom of Jordan,Amman,Asia,Western Asia,10203140,89342.0,Arabic,Jordanian dinar,https://flagcdn.com/w320/jo.png,2025-09-25 14:37:17
+RS,Serbia,Republic of Serbia,Belgrade,Europe,Southeast Europe,6908224,88361.0,Serbian,Serbian dinar,https://flagcdn.com/w320/rs.png,2025-09-25 14:37:17
+AZ,Azerbaijan,Republic of Azerbaijan,Baku,Asia,Western Asia,10110116,86600.0,Azerbaijani,Azerbaijani manat,https://flagcdn.com/w320/az.png,2025-09-25 14:37:17
+AT,Austria,Republic of Austria,Vienna,Europe,Central Europe,8917205,83871.0,German,Euro,https://flagcdn.com/w320/at.png,2025-09-25 14:37:17
+AE,United Arab Emirates,United Arab Emirates,Abu Dhabi,Asia,Western Asia,9890400,83600.0,Arabic,United Arab Emirates dirham,https://flagcdn.com/w320/ae.png,2025-09-25 14:37:17
+GF,French Guiana,Guiana,Cayenne,Americas,South America,254541,83534.0,French,Euro,https://flagcdn.com/w320/gf.png,2025-09-25 14:37:17
+CZ,Czechia,Czech Republic,Prague,Europe,Central Europe,10698896,78865.0,"Czech, Slovak",Czech koruna,https://flagcdn.com/w320/cz.png,2025-09-25 14:37:17
+PA,Panama,Republic of Panama,Panama City,Americas,Central America,4314768,75417.0,Spanish,"Panamanian balboa, United States dollar",https://flagcdn.com/w320/pa.png,2025-09-25 14:37:17
+SL,Sierra Leone,Republic of Sierra Leone,Freetown,Africa,Western Africa,7976985,71740.0,English,Leone,https://flagcdn.com/w320/sl.png,2025-09-25 14:37:17
+IE,Ireland,Republic of Ireland,Dublin,Europe,Northern Europe,4994724,70273.0,"English, Irish",Euro,https://flagcdn.com/w320/ie.png,2025-09-25 14:37:17
+GE,Georgia,Georgia,Tbilisi,Asia,Western Asia,3714000,69700.0,Georgian,lari,https://flagcdn.com/w320/ge.png,2025-09-25 14:37:17
+LK,Sri Lanka,Democratic Socialist Republic of Sri Lanka,Sri Jayawardenepura Kotte,Asia,Southern Asia,21919000,65610.0,"Sinhala, Tamil",Sri Lankan rupee,https://flagcdn.com/w320/lk.png,2025-09-25 14:37:17
+LT,Lithuania,Republic of Lithuania,Vilnius,Europe,Northern Europe,2794700,65300.0,Lithuanian,Euro,https://flagcdn.com/w320/lt.png,2025-09-25 14:37:17
+LV,Latvia,Republic of Latvia,Riga,Europe,Northern Europe,1901548,64559.0,Latvian,Euro,https://flagcdn.com/w320/lv.png,2025-09-25 14:37:17
+SJ,Svalbard and Jan Mayen,Svalbard og Jan Mayen,Longyearbyen,Europe,Northern Europe,2562,61399.0,Norwegian,krone,https://flagcdn.com/w320/sj.png,2025-09-25 14:37:17
+TG,Togo,Togolese Republic,Lomé,Africa,Western Africa,8278737,56785.0,French,West African CFA franc,https://flagcdn.com/w320/tg.png,2025-09-25 14:37:17
+HR,Croatia,Republic of Croatia,Zagreb,Europe,Southeast Europe,4047200,56594.0,Croatian,Euro,https://flagcdn.com/w320/hr.png,2025-09-25 14:37:17
+BA,Bosnia and Herzegovina,Bosnia and Herzegovina,Sarajevo,Europe,Southeast Europe,3280815,51209.0,"Bosnian, Croatian, Serbian",Bosnia and Herzegovina convertible mark,https://flagcdn.com/w320/ba.png,2025-09-25 14:37:17
+CR,Costa Rica,Republic of Costa Rica,San José,Americas,Central America,5094114,51100.0,Spanish,Costa Rican colón,https://flagcdn.com/w320/cr.png,2025-09-25 14:37:17
+SK,Slovakia,Slovak Republic,Bratislava,Europe,Central Europe,5458827,49037.0,Slovak,Euro,https://flagcdn.com/w320/sk.png,2025-09-25 14:37:17
+DO,Dominican Republic,Dominican Republic,Santo Domingo,Americas,Caribbean,10847904,48671.0,Spanish,Dominican peso,https://flagcdn.com/w320/do.png,2025-09-25 14:37:17
+EE,Estonia,Republic of Estonia,Tallinn,Europe,Northern Europe,1331057,45227.0,Estonian,Euro,https://flagcdn.com/w320/ee.png,2025-09-25 14:37:17
+DK,Denmark,Kingdom of Denmark,Copenhagen,Europe,Northern Europe,5831404,43094.0,Danish,Danish krone,https://flagcdn.com/w320/dk.png,2025-09-25 14:37:17
+NL,Netherlands,Kingdom of the Netherlands,Amsterdam,Europe,Western Europe,16655799,41850.0,Dutch,Euro,https://flagcdn.com/w320/nl.png,2025-09-25 14:37:17
+CH,Switzerland,Swiss Confederation,Bern,Europe,Western Europe,8654622,41284.0,"French, Swiss German, Italian, Romansh",Swiss franc,https://flagcdn.com/w320/ch.png,2025-09-25 14:37:17
+BT,Bhutan,Kingdom of Bhutan,Thimphu,Asia,Southern Asia,771612,38394.0,Dzongkha,"Bhutanese ngultrum, Indian rupee",https://flagcdn.com/w320/bt.png,2025-09-25 14:37:17
+TW,Taiwan,Republic of China (Taiwan),Taipei,Asia,Eastern Asia,23503349,36193.0,Chinese,New Taiwan dollar,https://flagcdn.com/w320/tw.png,2025-09-25 14:37:17
+GW,Guinea-Bissau,Republic of Guinea-Bissau,Bissau,Africa,Western Africa,1967998,36125.0,"Portuguese, Upper Guinea Creole",West African CFA franc,https://flagcdn.com/w320/gw.png,2025-09-25 14:37:17
+MD,Moldova,Republic of Moldova,Chișinău,Europe,Eastern Europe,2617820,33846.0,Romanian,Moldovan leu,https://flagcdn.com/w320/md.png,2025-09-25 14:37:17
+BE,Belgium,Kingdom of Belgium,Brussels,Europe,Western Europe,11555997,30528.0,"German, French, Dutch",Euro,https://flagcdn.com/w320/be.png,2025-09-25 14:37:17
+LS,Lesotho,Kingdom of Lesotho,Maseru,Africa,Southern Africa,2142252,30355.0,"English, Sotho","Lesotho loti, South African rand",https://flagcdn.com/w320/ls.png,2025-09-25 14:37:17
+AM,Armenia,Republic of Armenia,Yerevan,Asia,Western Asia,2963234,29743.0,Armenian,Armenian dram,https://flagcdn.com/w320/am.png,2025-09-25 14:37:17
+SB,Solomon Islands,Solomon Islands,Honiara,Oceania,Melanesia,686878,28896.0,English,Solomon Islands dollar,https://flagcdn.com/w320/sb.png,2025-09-25 14:37:17
+AL,Albania,Republic of Albania,Tirana,Europe,Southeast Europe,2837743,28748.0,Albanian,Albanian lek,https://flagcdn.com/w320/al.png,2025-09-25 14:37:17
+GQ,Equatorial Guinea,Republic of Equatorial Guinea,Malabo,Africa,Middle Africa,1402985,28051.0,"French, Portuguese, Spanish",Central African CFA franc,https://flagcdn.com/w320/gq.png,2025-09-25 14:37:17
+BI,Burundi,Republic of Burundi,Gitega,Africa,Eastern Africa,11890781,27834.0,"French, Kirundi",Burundian franc,https://flagcdn.com/w320/bi.png,2025-09-25 14:37:17
+HT,Haiti,Republic of Haiti,Port-au-Prince,Americas,Caribbean,11402533,27750.0,"French, Haitian Creole",Haitian gourde,https://flagcdn.com/w320/ht.png,2025-09-25 14:37:17
+RW,Rwanda,Republic of Rwanda,Kigali,Africa,Eastern Africa,12952209,26338.0,"English, French, Kinyarwanda",Rwandan franc,https://flagcdn.com/w320/rw.png,2025-09-25 14:37:17
+MK,North Macedonia,Republic of North Macedonia,Skopje,Europe,Southeast Europe,2077132,25713.0,Macedonian,denar,https://flagcdn.com/w320/mk.png,2025-09-25 14:37:17
+DJ,Djibouti,Republic of Djibouti,Djibouti,Africa,Eastern Africa,988002,23200.0,"Arabic, French",Djiboutian franc,https://flagcdn.com/w320/dj.png,2025-09-25 14:37:17
+BZ,Belize,Belize,Belmopan,Americas,Central America,397621,22966.0,"Belizean Creole, English, Spanish",Belize dollar,https://flagcdn.com/w320/bz.png,2025-09-25 14:37:17
+SV,El Salvador,Republic of El Salvador,San Salvador,Americas,Central America,6486201,21041.0,Spanish,United States dollar,https://flagcdn.com/w320/sv.png,2025-09-25 14:37:17
+IL,Israel,State of Israel,Jerusalem,Asia,Western Asia,9216900,20770.0,"Arabic, Hebrew",Israeli new shekel,https://flagcdn.com/w320/il.png,2025-09-25 14:37:17
+SI,Slovenia,Republic of Slovenia,Ljubljana,Europe,Central Europe,2100126,20273.0,Slovene,Euro,https://flagcdn.com/w320/si.png,2025-09-25 14:37:17
+NC,New Caledonia,New Caledonia,Nouméa,Oceania,Melanesia,271960,18575.0,French,CFP franc,https://flagcdn.com/w320/nc.png,2025-09-25 14:37:17
+FJ,Fiji,Republic of Fiji,Suva,Oceania,Melanesia,896444,18272.0,"English, Fijian, Fiji Hindi",Fijian dollar,https://flagcdn.com/w320/fj.png,2025-09-25 14:37:17
+KW,Kuwait,State of Kuwait,Kuwait City,Asia,Western Asia,4270563,17818.0,Arabic,Kuwaiti dinar,https://flagcdn.com/w320/kw.png,2025-09-25 14:37:17
+SZ,Eswatini,Kingdom of Eswatini,Mbabane,Africa,Southern Africa,1160164,17364.0,"English, Swazi","Swazi lilangeni, South African rand",https://flagcdn.com/w320/sz.png,2025-09-25 14:37:17
+TL,Timor-Leste,Democratic Republic of Timor-Leste,Dili,Asia,South-Eastern Asia,1318442,14874.0,"Portuguese, Tetum",United States dollar,https://flagcdn.com/w320/tl.png,2025-09-25 14:37:17
+BS,Bahamas,Commonwealth of the Bahamas,Nassau,Americas,Caribbean,393248,13943.0,English,"Bahamian dollar, United States dollar",https://flagcdn.com/w320/bs.png,2025-09-25 14:37:17
+ME,Montenegro,Montenegro,Podgorica,Europe,Southeast Europe,621718,13812.0,Montenegrin,Euro,https://flagcdn.com/w320/me.png,2025-09-25 14:37:17
+VU,Vanuatu,Republic of Vanuatu,Port Vila,Oceania,Melanesia,307150,12189.0,"Bislama, English, French",Vanuatu vatu,https://flagcdn.com/w320/vu.png,2025-09-25 14:37:17
+FK,Falkland Islands,Falkland Islands,Stanley,Americas,South America,2563,12173.0,English,Falkland Islands pound,https://flagcdn.com/w320/fk.png,2025-09-25 14:37:17
+QA,Qatar,State of Qatar,Doha,Asia,Western Asia,2881060,11586.0,Arabic,Qatari riyal,https://flagcdn.com/w320/qa.png,2025-09-25 14:37:17
+JM,Jamaica,Jamaica,Kingston,Americas,Caribbean,2961161,10991.0,"English, Jamaican Patois",Jamaican dollar,https://flagcdn.com/w320/jm.png,2025-09-25 14:37:17
+XK,Kosovo,Republic of Kosovo,Pristina,Europe,Southeast Europe,1775378,10908.0,"Albanian, Serbian",Euro,https://flagcdn.com/w320/xk.png,2025-09-25 14:37:17
+GM,Gambia,Republic of the Gambia,Banjul,Africa,Western Africa,2416664,10689.0,English,dalasi,https://flagcdn.com/w320/gm.png,2025-09-25 14:37:17
+LB,Lebanon,Lebanese Republic,Beirut,Asia,Western Asia,6825442,10452.0,"Arabic, French",Lebanese pound,https://flagcdn.com/w320/lb.png,2025-09-25 14:37:17
+CY,Cyprus,Republic of Cyprus,Nicosia,Europe,Southern Europe,1207361,9251.0,"Greek, Turkish",Euro,https://flagcdn.com/w320/cy.png,2025-09-25 14:37:17
+PR,Puerto Rico,Commonwealth of Puerto Rico,San Juan,Americas,Caribbean,3194034,8870.0,"English, Spanish",United States dollar,https://flagcdn.com/w320/pr.png,2025-09-25 14:37:17
+TF,French Southern and Antarctic Lands,Territory of the French Southern and Antarctic Lands,Port-aux-Français,Antarctic,,400,7747.0,French,Euro,https://flagcdn.com/w320/tf.png,2025-09-25 14:37:17
+PS,Palestine,State of Palestine,Ramallah,Asia,Western Asia,4803269,6220.0,Arabic,"Egyptian pound, Israeli new shekel, Jordanian dinar",https://flagcdn.com/w320/ps.png,2025-09-25 14:37:17
+BN,Brunei,"Nation of Brunei, Abode of Peace",Bandar Seri Begawan,Asia,South-Eastern Asia,437483,5765.0,Malay,"Brunei dollar, Singapore dollar",https://flagcdn.com/w320/bn.png,2025-09-25 14:37:17
+TT,Trinidad and Tobago,Republic of Trinidad and Tobago,Port of Spain,Americas,Caribbean,1399491,5130.0,English,Trinidad and Tobago dollar,https://flagcdn.com/w320/tt.png,2025-09-25 14:37:17
+PF,French Polynesia,French Polynesia,Papeetē,Oceania,Polynesia,280904,4167.0,French,CFP franc,https://flagcdn.com/w320/pf.png,2025-09-25 14:37:17
+CV,Cape Verde,Republic of Cabo Verde,Praia,Africa,Western Africa,555988,4033.0,Portuguese,Cape Verdean escudo,https://flagcdn.com/w320/cv.png,2025-09-25 14:37:17
+GS,South Georgia,South Georgia and the South Sandwich Islands,King Edward Point,Antarctic,,30,3903.0,English,British pound,https://flagcdn.com/w320/gs.png,2025-09-25 14:37:17
+WS,Samoa,Independent State of Samoa,Apia,Oceania,Polynesia,198410,2842.0,"English, Samoan",Samoan tālā,https://flagcdn.com/w320/ws.png,2025-09-25 14:37:17
+LU,Luxembourg,Grand Duchy of Luxembourg,Luxembourg,Europe,Western Europe,632275,2586.0,"German, French, Luxembourgish",Euro,https://flagcdn.com/w320/lu.png,2025-09-25 14:37:17
+RE,Réunion,Réunion Island,Saint-Denis,Africa,Eastern Africa,840974,2511.0,French,Euro,https://flagcdn.com/w320/re.png,2025-09-25 14:37:17
+MU,Mauritius,Republic of Mauritius,Port Louis,Africa,Eastern Africa,1265740,2040.0,"English, French, Mauritian Creole",Mauritian rupee,https://flagcdn.com/w320/mu.png,2025-09-25 14:37:17
+KM,Comoros,Union of the Comoros,Moroni,Africa,Eastern Africa,869595,1862.0,"Arabic, French, Comorian",Comorian franc,https://flagcdn.com/w320/km.png,2025-09-25 14:37:17
+GP,Guadeloupe,Guadeloupe,Basse-Terre,Americas,Caribbean,400132,1628.0,French,Euro,https://flagcdn.com/w320/gp.png,2025-09-25 14:37:17
+AX,Åland Islands,Åland Islands,Mariehamn,Europe,Northern Europe,29458,1580.0,Swedish,Euro,https://flagcdn.com/w320/ax.png,2025-09-25 14:37:17
+FO,Faroe Islands,Faroe Islands,Tórshavn,Europe,Northern Europe,48865,1393.0,"Danish, Faroese","Danish krone, Faroese króna",https://flagcdn.com/w320/fo.png,2025-09-25 14:37:17
+MQ,Martinique,Martinique,Fort-de-France,Americas,Caribbean,378243,1128.0,French,Euro,https://flagcdn.com/w320/mq.png,2025-09-25 14:37:17
+HK,Hong Kong,Hong Kong Special Administrative Region of the People's Republic of China,City of Victoria,Asia,Eastern Asia,7500700,1104.0,"English, Chinese",Hong Kong dollar,https://flagcdn.com/w320/hk.png,2025-09-25 14:37:17
+ST,São Tomé and Príncipe,Democratic Republic of São Tomé and Príncipe,São Tomé,Africa,Middle Africa,219161,964.0,Portuguese,São Tomé and Príncipe dobra,https://flagcdn.com/w320/st.png,2025-09-25 14:37:17
+TC,Turks and Caicos Islands,Turks and Caicos Islands,Cockburn Town,Americas,Caribbean,38718,948.0,English,United States dollar,https://flagcdn.com/w320/tc.png,2025-09-25 14:37:17
+KI,Kiribati,Independent and Sovereign Republic of Kiribati,South Tarawa,Oceania,Micronesia,119446,811.0,"English, Gilbertese","Australian dollar, Kiribati dollar",https://flagcdn.com/w320/ki.png,2025-09-25 14:37:17
+BH,Bahrain,Kingdom of Bahrain,Manama,Asia,Western Asia,1701583,765.0,Arabic,Bahraini dinar,https://flagcdn.com/w320/bh.png,2025-09-25 14:37:17
+DM,Dominica,Commonwealth of Dominica,Roseau,Americas,Caribbean,71991,751.0,English,Eastern Caribbean dollar,https://flagcdn.com/w320/dm.png,2025-09-25 14:37:17
+TO,Tonga,Kingdom of Tonga,Nuku'alofa,Oceania,Polynesia,105697,747.0,"English, Tongan",Tongan paʻanga,https://flagcdn.com/w320/to.png,2025-09-25 14:37:17
+SG,Singapore,Republic of Singapore,Singapore,Asia,South-Eastern Asia,5685807,710.0,"English, Chinese, Malay, Tamil",Singapore dollar,https://flagcdn.com/w320/sg.png,2025-09-25 14:37:17
+FM,Micronesia,Federated States of Micronesia,Palikir,Oceania,Micronesia,115021,702.0,English,United States dollar,https://flagcdn.com/w320/fm.png,2025-09-25 14:37:17
+LC,Saint Lucia,Saint Lucia,Castries,Americas,Caribbean,183629,616.0,English,Eastern Caribbean dollar,https://flagcdn.com/w320/lc.png,2025-09-25 14:37:17
+IM,Isle of Man,Isle of Man,Douglas,Europe,Northern Europe,85032,572.0,"English, Manx","British pound, Manx pound",https://flagcdn.com/w320/im.png,2025-09-25 14:37:17
+GU,Guam,Guam,Hagåtña,Oceania,Micronesia,168783,549.0,"Chamorro, English, Spanish",United States dollar,https://flagcdn.com/w320/gu.png,2025-09-25 14:37:17
+AD,Andorra,Principality of Andorra,Andorra la Vella,Europe,Southern Europe,77265,468.0,Catalan,Euro,https://flagcdn.com/w320/ad.png,2025-09-25 14:37:17
+MP,Northern Mariana Islands,Commonwealth of the Northern Mariana Islands,Saipan,Oceania,Micronesia,57557,464.0,"Carolinian, Chamorro, English",United States dollar,https://flagcdn.com/w320/mp.png,2025-09-25 14:37:17
+PW,Palau,Republic of Palau,Ngerulmud,Oceania,Micronesia,18092,459.0,"English, Palauan",United States dollar,https://flagcdn.com/w320/pw.png,2025-09-25 14:37:17
+SC,Seychelles,Republic of Seychelles,Victoria,Africa,Eastern Africa,98462,452.0,"Seychellois Creole, English, French",Seychellois rupee,https://flagcdn.com/w320/sc.png,2025-09-25 14:37:17
+CW,Curaçao,Country of Curaçao,Willemstad,Americas,Caribbean,155014,444.0,"English, Dutch, Papiamento",Netherlands Antillean guilder,https://flagcdn.com/w320/cw.png,2025-09-25 14:37:17
+AG,Antigua and Barbuda,Antigua and Barbuda,Saint John's,Americas,Caribbean,97928,442.0,English,Eastern Caribbean dollar,https://flagcdn.com/w320/ag.png,2025-09-25 14:37:17
+BB,Barbados,Barbados,Bridgetown,Americas,Caribbean,287371,430.0,English,Barbadian dollar,https://flagcdn.com/w320/bb.png,2025-09-25 14:37:17
+HM,Heard Island and McDonald Islands,Heard Island and McDonald Islands,Não informado,Antarctic,,0,412.0,English,Não informado,https://flagcdn.com/w320/hm.png,2025-09-25 14:37:17
+SH,"Saint Helena, Ascension and Tristan da Cunha","Saint Helena, Ascension and Tristan da Cunha",Jamestown,Africa,Western Africa,53192,394.0,English,"Pound sterling, Saint Helena pound",https://flagcdn.com/w320/sh.png,2025-09-25 14:37:17
+VC,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Kingstown,Americas,Caribbean,110947,389.0,English,Eastern Caribbean dollar,https://flagcdn.com/w320/vc.png,2025-09-25 14:37:17
+YT,Mayotte,Department of Mayotte,Mamoudzou,Africa,Eastern Africa,226915,374.0,French,Euro,https://flagcdn.com/w320/yt.png,2025-09-25 14:37:17
+VI,United States Virgin Islands,Virgin Islands of the United States,Charlotte Amalie,Americas,Caribbean,106290,347.0,English,United States dollar,https://flagcdn.com/w320/vi.png,2025-09-25 14:37:17
+GD,Grenada,Grenada,St. George's,Americas,Caribbean,112519,344.0,English,Eastern Caribbean dollar,https://flagcdn.com/w320/gd.png,2025-09-25 14:37:17
+BQ,Caribbean Netherlands,"Bonaire, Sint Eustatius and Saba",Kralendijk,Americas,Caribbean,25987,328.0,"English, Dutch, Papiamento",United States dollar,https://flagcdn.com/w320/bq.png,2025-09-25 14:37:17
+MT,Malta,Republic of Malta,Valletta,Europe,Southern Europe,525285,316.0,"English, Maltese",Euro,https://flagcdn.com/w320/mt.png,2025-09-25 14:37:17
+MV,Maldives,Republic of the Maldives,Malé,Asia,Southern Asia,540542,300.0,Maldivian,Maldivian rufiyaa,https://flagcdn.com/w320/mv.png,2025-09-25 14:37:17
+KY,Cayman Islands,Cayman Islands,George Town,Americas,Caribbean,65720,264.0,English,Cayman Islands dollar,https://flagcdn.com/w320/ky.png,2025-09-25 14:37:17
+KN,Saint Kitts and Nevis,Federation of Saint Christopher and Nevis,Basseterre,Americas,Caribbean,53192,261.0,English,Eastern Caribbean dollar,https://flagcdn.com/w320/kn.png,2025-09-25 14:37:17
+NU,Niue,Niue,Alofi,Oceania,Polynesia,1470,260.0,"English, Niuean",New Zealand dollar,https://flagcdn.com/w320/nu.png,2025-09-25 14:37:17
+PM,Saint Pierre and Miquelon,Saint Pierre and Miquelon,Saint-Pierre,Americas,North America,6069,242.0,French,Euro,https://flagcdn.com/w320/pm.png,2025-09-25 14:37:17
+CK,Cook Islands,Cook Islands,Avarua,Oceania,Polynesia,18100,236.0,"English, Cook Islands Māori","Cook Islands dollar, New Zealand dollar",https://flagcdn.com/w320/ck.png,2025-09-25 14:37:17
+AS,American Samoa,American Samoa,Pago Pago,Oceania,Polynesia,55197,199.0,"English, Samoan",United States dollar,https://flagcdn.com/w320/as.png,2025-09-25 14:37:17
+MH,Marshall Islands,Republic of the Marshall Islands,Majuro,Oceania,Micronesia,59194,181.0,"English, Marshallese",United States dollar,https://flagcdn.com/w320/mh.png,2025-09-25 14:37:17
+AW,Aruba,Aruba,Oranjestad,Americas,Caribbean,106766,180.0,"Dutch, Papiamento",Aruban florin,https://flagcdn.com/w320/aw.png,2025-09-25 14:37:17
+LI,Liechtenstein,Principality of Liechtenstein,Vaduz,Europe,Western Europe,38137,160.0,German,Swiss franc,https://flagcdn.com/w320/li.png,2025-09-25 14:37:17
+VG,British Virgin Islands,Virgin Islands,Road Town,Americas,Caribbean,30237,151.0,English,United States dollar,https://flagcdn.com/w320/vg.png,2025-09-25 14:37:17
+WF,Wallis and Futuna,Territory of the Wallis and Futuna Islands,Mata-Utu,Oceania,Polynesia,11750,142.0,French,CFP franc,https://flagcdn.com/w320/wf.png,2025-09-25 14:37:17
+CX,Christmas Island,Territory of Christmas Island,Flying Fish Cove,Oceania,Australia and New Zealand,2072,135.0,English,Australian dollar,https://flagcdn.com/w320/cx.png,2025-09-25 14:37:17
+JE,Jersey,Bailiwick of Jersey,Saint Helier,Europe,Northern Europe,100800,116.0,"English, French, Jèrriais","British pound, Jersey pound",https://flagcdn.com/w320/je.png,2025-09-25 14:37:17
+MS,Montserrat,Montserrat,Plymouth,Americas,Caribbean,4922,102.0,English,Eastern Caribbean dollar,https://flagcdn.com/w320/ms.png,2025-09-25 14:37:17
+AI,Anguilla,Anguilla,The Valley,Americas,Caribbean,13452,91.0,English,Eastern Caribbean dollar,https://flagcdn.com/w320/ai.png,2025-09-25 14:37:17
+GG,Guernsey,Bailiwick of Guernsey,St. Peter Port,Europe,Northern Europe,62999,78.0,"English, French, Guernésiais","British pound, Guernsey pound",https://flagcdn.com/w320/gg.png,2025-09-25 14:37:17
+SM,San Marino,Republic of San Marino,City of San Marino,Europe,Southern Europe,33938,61.0,Italian,Euro,https://flagcdn.com/w320/sm.png,2025-09-25 14:37:17
+IO,British Indian Ocean Territory,British Indian Ocean Territory,Diego Garcia,Africa,Eastern Africa,3000,60.0,English,United States dollar,https://flagcdn.com/w320/io.png,2025-09-25 14:37:17
+BM,Bermuda,Bermuda,Hamilton,Americas,North America,63903,54.0,English,Bermudian dollar,https://flagcdn.com/w320/bm.png,2025-09-25 14:37:17
+MF,Saint Martin,Saint Martin,Marigot,Americas,Caribbean,38659,53.0,French,Euro,https://flagcdn.com/w320/mf.png,2025-09-25 14:37:17
+BV,Bouvet Island,Bouvet Island,Não informado,Antarctic,,0,49.0,Norwegian,Não informado,https://flagcdn.com/w320/bv.png,2025-09-25 14:37:17
+PN,Pitcairn Islands,Pitcairn Group of Islands,Adamstown,Oceania,Polynesia,56,47.0,English,New Zealand dollar,https://flagcdn.com/w320/pn.png,2025-09-25 14:37:17
+NF,Norfolk Island,Territory of Norfolk Island,Kingston,Oceania,Australia and New Zealand,2302,36.0,"English, Norfuk",Australian dollar,https://flagcdn.com/w320/nf.png,2025-09-25 14:37:17
+UM,United States Minor Outlying Islands,United States Minor Outlying Islands,Washington DC,Americas,North America,300,34.2,English,United States dollar,https://flagcdn.com/w320/um.png,2025-09-25 14:37:17
+SX,Sint Maarten,Sint Maarten,Philipsburg,Americas,Caribbean,40812,34.0,"English, French, Dutch",Netherlands Antillean guilder,https://flagcdn.com/w320/sx.png,2025-09-25 14:37:17
+MO,Macau,Macao Special Administrative Region of the People's Republic of China,Não informado,Asia,Eastern Asia,649342,30.0,"Portuguese, Chinese",Macanese pataca,https://flagcdn.com/w320/mo.png,2025-09-25 14:37:17
+TV,Tuvalu,Tuvalu,Funafuti,Oceania,Polynesia,11792,26.0,"English, Tuvaluan","Australian dollar, Tuvaluan dollar",https://flagcdn.com/w320/tv.png,2025-09-25 14:37:17
+BL,Saint Barthélemy,Collectivity of Saint Barthélemy,Gustavia,Americas,Caribbean,4255,21.0,French,Euro,https://flagcdn.com/w320/bl.png,2025-09-25 14:37:17
+NR,Nauru,Republic of Nauru,Yaren,Oceania,Micronesia,10834,21.0,"English, Nauru",Australian dollar,https://flagcdn.com/w320/nr.png,2025-09-25 14:37:17
+CC,Cocos (Keeling) Islands,Territory of the Cocos (Keeling) Islands,West Island,Oceania,Australia and New Zealand,544,14.0,English,Australian dollar,https://flagcdn.com/w320/cc.png,2025-09-25 14:37:17
+TK,Tokelau,Tokelau,Fakaofo,Oceania,Polynesia,1411,12.0,"English, Samoan, Tokelauan",New Zealand dollar,https://flagcdn.com/w320/tk.png,2025-09-25 14:37:17
+GI,Gibraltar,Gibraltar,Gibraltar,Europe,Southern Europe,33691,6.0,English,Gibraltar pound,https://flagcdn.com/w320/gi.png,2025-09-25 14:37:17
+MC,Monaco,Principality of Monaco,Monaco,Europe,Western Europe,39244,2.02,French,Euro,https://flagcdn.com/w320/mc.png,2025-09-25 14:37:17
+VA,Vatican City,Vatican City State,Vatican City,Europe,Southern Europe,451,0.44,"Italian, Latin",Euro,https://flagcdn.com/w320/va.png,2025-09-25 14:37:17
