@@ -18,20 +18,3 @@ API REST Countries
 API OpenWeatherMap
 
 Banco Mundial (World Bank Data)
-
-Estrutura do Projeto:
-
-├── postgresql_dbt/           # Pasta principal do projeto dbt
-│   ├── models/
-│   │   ├── bronze/           # Camada de ingestão (dados brutos das APIs e tabelas)
-│   │   ├── silver/           # Camada de tratamento (joins, limpeza, enriquecimento)
-│   │   ├── gold/             # Camada analítica (tabelas finais para BI/insights)
-│   │   └── sources.yml       # Definição das tabelas fontes
-│   ├── macros/               # Funções reutilizáveis
-│   ├── snapshots/            # Controle de versões de dados (se usado)
-│   └── tests/                # Testes de qualidade de dados
-│
-├── dbt_project.yml           # Configuração principal do dbt
-├── profiles.yml              # Configuração de conexão ao banco (em .dbt do usuário)
-├── requirements.txt          # Dependências (dbt-core, dbt-postgres, etc.)
-└── README.md                 # Este documento
