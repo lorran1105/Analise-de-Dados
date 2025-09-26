@@ -1,197 +1,197 @@
 cidade,codigo_pais,temperatura,sensacao_termica,temperatura_min,temperatura_max,umidade,descricao_clima,horario_medicao
-Kinshasa,CD,32.21,34.27,32.18,32.21,48,algumas nuvens,1758820859
-Bangui,CF,22.71,23.52,22.71,22.71,95,nublado,1758820682
-Lilongwe,MW,26.58,26.58,26.58,26.58,25,nuvens dispersas,1758820862
-Antananarivo,MG,20.98,20.6,20.98,20.98,56,algumas nuvens,1758820863
-Tegucigalpa,HN,26.92,27.78,26.92,27.42,57,nuvens dispersas,1758820800
-Sofia,BG,20.44,19.74,17.83,20.44,46,nuvens dispersas,1758820817
-Damascus,SY,24.42,24.25,24.42,24.42,51,nublado,1758820867
-Minsk,BY,5.3,3.01,5.3,5.3,76,céu limpo,1758820747
-Maseru,LS,16.52,15.61,16.52,16.52,53,algumas nuvens,1758820822
-Harare,ZW,22.72,21.96,22.72,22.72,35,nuvens dispersas,1758820875
-Manama,BH,31.66,35.47,30.99,31.66,57,céu limpo,1758820877
-Roseau,DM,32.36,39.36,29.01,32.36,79,chuva leve,1758820879
-Reykjavik,IS,10.81,9.8,10.5,10.81,71,nublado,1758820880
-Ankara,TR,22.78,21.98,21.51,22.89,33,céu limpo,1758820882
-Islamabad,PK,26.58,26.58,26.58,26.58,57,algumas nuvens,1758820610
-Brussels,BE,10.72,9.78,10.09,11.08,74,nublado,1758820686
-Bridgetown,BB,32.27,38.36,32.27,32.27,62,nuvens dispersas,1758820830
-Accra,GH,26.23,26.23,26.23,26.23,89,nublado,1758820701
-Moroni,KM,24.4,24.85,24.4,24.4,75,nublado,1758820889
-Kingstown,VC,31.6,37.95,31.6,31.6,66,algumas nuvens,1758820890
-Kingston,NF,17.23,17.02,17.23,17.23,77,nublado,1758820893
-Lisbon,PT,25.67,25.1,24.68,26.41,31,céu limpo,1758820773
-Longyearbyen,SJ,0.91,-3.86,0.91,0.91,75,nublado,1758820896
-Malabo,GQ,24.92,26.08,24.92,24.92,100,garoa de leve intensidade,1758820898
-Canberra,AU,9.21,6.98,6.73,10.3,75,nublado,1758820842
-Chișinău,MD,12.24,10.83,12.24,12.24,50,céu limpo,1758820752
-Castries,LC,30.94,37.94,30.04,31.07,77,nuvens dispersas,1758820905
-Santiago,CL,24.1,23.64,23.01,25.47,41,céu limpo,1758820827
-Dhaka,BD,29.99,36.99,29.99,29.99,79,neblina,1758820802
-Porto-Novo,BJ,27.9,31.56,27.9,27.9,78,nublado,1758820909
-Majuro,MH,27.98,31.75,27.98,27.98,78,nublado,1758820910
-Amsterdam,NL,14.5,13.47,13.33,14.98,56,céu limpo,1758820667
-Port-au-Prince,HT,31.79,38.44,31.79,31.79,66,chuva leve,1758820915
-Vaduz,LI,11.97,11.52,11.46,12.54,88,chuva leve,1758820916
-Bishkek,KG,15.11,14.11,15.11,15.11,55,céu limpo,1758820637
-Manila,PH,25.69,26.8,25.03,26.0,95,nublado,1758820815
-Helsinki,FI,11.39,10.62,9.38,12.09,78,algumas nuvens,1758820741
-Hanoi,VN,25.0,25.88,25.0,25.0,89,nublado,1758820704
-Ashgabat,TM,19.92,19.14,19.92,19.92,45,algumas nuvens,1758820923
-Oslo,NO,11.99,11.1,11.99,11.99,71,céu limpo,1758820825
-Rabat,MA,22.32,22.51,22.32,22.32,73,nuvens dispersas,1758820735
-Asunción,PY,31.24,31.38,28.69,31.25,41,céu limpo,1758820716
-Vilnius,LT,7.81,7.81,7.45,8.18,72,algumas nuvens,1758820933
-Paris,FR,11.71,11.03,10.77,12.27,80,nublado,1758820683
-Port-aux-Français,TF,1.06,-5.49,1.06,1.06,71,nublado,1758820939
-Nairobi,KE,19.97,19.59,19.97,19.97,60,nublado,1758820816
-Jamestown,SH,16.87,16.68,16.87,16.87,79,nublado,1758820942
-Stanley,FK,6.25,0.98,6.25,6.25,76,nublado,1758820944
-Mamoudzou,YT,24.79,25.36,24.79,24.79,78,céu limpo,1758820945
-Madrid,ES,22.66,21.63,22.13,23.7,25,céu limpo,1758820728
-Apia,WS,22.95,23.42,22.95,22.95,81,chuva leve,1758820949
-Amman,JO,21.05,20.88,20.75,21.05,64,nuvens dispersas,1758820952
-Tórshavn,FO,12.66,12.54,12.66,12.66,98,chuva leve,1758820954
-Dakar,SN,31.25,38.25,30.07,31.25,75,chuva leve,1758820955
-Brasília,BR,25.53,25.47,25.51,27.25,51,nublado,1758820460
-Djibouti,DJ,32.14,33.06,32.14,32.14,43,nublado,1758820958
-Valletta,MT,24.3,24.35,24.3,24.3,60,céu limpo,1758820959
-Alofi,NU,22.94,23.59,22.94,22.94,88,nublado,1758820961
-Malé,MV,28.97,34.44,28.97,28.97,79,nublado,1758820829
-Mbabane,SZ,11.95,11.08,11.95,11.95,72,nublado,1758820964
-Warsaw,PL,12.86,11.51,10.99,14.01,50,céu limpo,1758820810
-Philipsburg,SX,30.97,37.97,30.97,31.22,84,nuvens dispersas,1758820966
-Caracas,VE,29.06,30.54,26.67,29.54,56,nuvens dispersas,1758820720
-Kralendijk,BQ,32.99,39.99,32.99,32.99,66,nuvens dispersas,1758820971
-Ottawa,CA,16.5,16.61,16.13,17.08,92,chuva leve,1758820741
-Palikir,FM,24.41,25.36,24.41,24.41,94,chuva leve,1758820974
-Plymouth,MS,30.23,36.66,30.23,30.23,74,algumas nuvens,1758820975
-Doha,QA,31.57,32.37,30.94,31.99,44,céu limpo,1758820976
-Jakarta,ID,26.11,26.11,23.96,26.16,85,nuvens dispersas,1758820845
-Maputo,MZ,19.01,18.95,19.01,19.01,76,nublado,1758820979
-London,GB,16.42,15.24,15.59,17.23,43,algumas nuvens,1758820981
-Kigali,RW,23.18,23.04,18.71,23.18,57,trovoada com chuva,1758820719
-Niamey,NE,34.16,36.53,34.16,34.16,43,algumas nuvens,1758820984
-Managua,NI,32.69,36.23,32.69,32.69,52,nuvens dispersas,1758820702
-Yerevan,AM,17.09,15.79,17.09,17.09,36,céu limpo,1758820808
-Yaoundé,CM,25.74,26.17,25.74,25.74,69,nublado,1758820988
-Nouakchott,MR,32.96,39.42,32.96,32.96,60,algumas nuvens,1758820989
-Freetown,SL,27.06,29.59,27.06,27.06,77,chuva leve,1758820991
-Hagåtña,GU,26.79,29.96,26.04,27.47,88,névoa,1758820992
-Banjul,GM,32.18,36.02,32.18,32.18,55,nuvens dispersas,1758820994
-Baghdad,IQ,28.95,27.42,28.95,28.95,20,céu limpo,1758820995
-Tokyo,JP,23.19,23.76,22.03,23.79,84,céu limpo,1758820878
-Gitega,BI,24.33,23.71,24.33,24.33,34,nublado,1758820999
-Basseterre,KN,31.21,38.21,30.06,31.21,74,algumas nuvens,1758821001
-Bogotá,CO,16.45,15.43,15.81,16.49,49,nublado,1758820749
-Fort-de-France,MQ,31.97,38.92,31.97,31.97,66,garoa leve,1758821004
-Belgrade,RS,19.33,18.78,19.07,19.81,56,céu limpo,1758821009
-Prague,CZ,8.96,6.23,7.94,9.98,97,garoa de leve intensidade,1758820821
-Avarua,CK,21.03,21.09,21.03,21.03,73,nuvens dispersas,1758821012
-Papeetē,PF,25.96,25.96,25.51,25.96,73,céu limpo,1758821014
-Bissau,GW,33.06,38.96,33.06,33.06,58,nuvens dispersas,1758821015
-Vientiane,LA,25.97,25.97,25.97,25.97,73,nublado,1758821017
-Bern,CH,11.32,10.23,10.83,12.86,66,nublado,1758821021
-Victoria,SC,25.59,26.37,25.59,25.59,83,chuviscos com intensidade de raios,1758820737
-Bratislava,SK,12.67,12.47,12.54,12.81,95,névoa,1758821025
-Saipan,MP,27.49,32.45,27.39,29.95,92,nuvens dispersas,1758821028
-Marigot,MF,30.92,37.92,30.88,31.14,84,nuvens dispersas,1758820884
-Conakry,GN,30.04,35.14,30.04,30.04,70,trovoadas,1758821031
-Dushanbe,TJ,21.9,21.06,21.9,21.9,35,nuvens dispersas,1758821034
-Asmara,ER,17.21,16.97,17.21,17.21,76,nuvens dispersas,1758821035
-Kyiv,UA,9.29,7.68,9.29,9.29,70,céu limpo,1758820923
-Mata-Utu,WF,27.23,30.15,27.23,27.23,79,nublado,1758821040
-Singapore,SG,28.14,31.97,26.95,28.92,77,nublado,1758821018
-Kingston,JM,33.61,40.61,32.53,34.55,61,nuvens dispersas,1758820822
-Adamstown,PN,21.11,21.5,21.11,21.11,85,chuva leve,1758821044
-Muscat,OM,28.21,32.63,28.21,28.21,80,nublado,1758821045
-Yamoussoukro,CI,32.94,36.75,32.94,32.94,52,chuva moderada,1758821047
-Bucharest,RO,15.68,14.61,14.92,16.16,50,chuva muito forte,1758820807
-Taipei,TW,29.1,30.18,28.91,30.18,53,garoa de leve intensidade,1758821050
-Ljubljana,SI,16.32,16.25,14.74,17.48,86,nublado,1758821051
-Sucre,BO,17.48,16.33,17.48,17.48,40,nublado,1758820953
-Dili,TL,26.51,26.51,26.51,26.51,71,nublado,1758821054
-Baku,AZ,19.03,19.13,19.03,19.03,82,céu limpo,1758820936
-Praia,CV,29.3,32.43,29.3,29.3,65,chuva leve,1758820870
-Bangkok,TH,28.87,33.18,28.84,28.94,74,nublado,1758820895
-Beirut,LB,26.41,26.41,23.54,26.41,65,nublado,1758820874
-Athens,GR,24.56,24.38,22.42,25.37,50,nublado,1758821064
-Rome,IT,21.1,20.86,20.32,21.74,61,céu limpo,1758820800
-Saint-Denis,RE,22.1,22.14,18.74,22.1,68,nublado,1758821067
-Mogadishu,SO,25.1,25.86,25.1,25.1,84,nublado,1758821068
-Kathmandu,NP,23.12,23.79,23.12,23.12,88,algumas nuvens,1758820900
-Libreville,GA,27.01,29.58,27.01,27.01,78,algumas nuvens,1758821076
-Podgorica,ME,22.88,23.26,22.88,22.88,78,céu limpo,1758821077
-Havana,CU,32.24,38.29,31.96,32.24,62,nublado,1758820873
-Paramaribo,SR,29.95,35.91,29.95,29.95,74,nuvens dispersas,1758820997
-Nuuk,GL,4.34,-2.66,4.34,4.93,93,chuva leve,1758821084
-Yaren,NR,27.85,30.63,27.85,27.85,72,nublado,1758821087
-Douglas,IM,14.88,13.94,14.88,14.88,58,céu limpo,1758821092
-Tripoli,LY,26.92,28.05,26.92,26.92,61,nuvens dispersas,1758821095
-Luanda,AO,24.0,24.49,24.0,24.0,78,nuvens dispersas,1758821096
-Stockholm,SE,11.91,11.25,10.14,12.25,80,céu limpo,1758821005
-Tirana,AL,20.49,20.89,20.49,20.49,88,chuva leve,1758821099
-Khartoum,SD,37.81,37.35,37.81,37.81,24,nuvens dispersas,1758821102
-Riga,LV,10.58,10.04,10.58,11.04,90,nublado,1758821103
-Zagreb,HR,17.72,17.74,16.82,17.72,84,nublado,1758821105
-Nicosia,CY,25.83,26.06,25.83,25.83,61,algumas nuvens,1758821091
-Cayenne,GF,33.02,37.86,33.02,33.02,55,nublado,1758821107
-Gaborone,BW,19.95,19.67,19.95,19.95,64,chuva moderada,1758821109
-Funafuti,TV,28.0,31.8,28.0,28.0,78,nuvens dispersas,1758821112
-Brazzaville,CG,32.2,34.25,32.17,32.2,48,chuva leve,1758821113
-Tbilisi,GE,18.84,18.32,18.84,18.84,59,céu limpo,1758820939
-Montevideo,UY,17.0,16.11,16.84,17.01,52,céu limpo,1758820951
-Honiara,SB,24.84,25.55,24.84,24.84,83,algumas nuvens,1758821123
-Budapest,HU,13.32,13.06,13.22,13.8,90,chuva leve,1758821028
-Ouagadougou,BF,23.07,23.89,23.07,23.07,94,algumas nuvens,1758821128
-Georgetown,GY,31.99,38.97,31.99,31.99,66,nuvens dispersas,1758821103
-Hamilton,BM,28.02,32.15,27.78,29.49,80,nuvens dispersas,1758821131
-Kabul,AF,18.99,18.41,18.99,18.99,56,céu limpo,1758821132
-Riyadh,SA,34.2,31.71,34.2,34.2,13,céu limpo,1758821010
-Astana,KZ,12.97,12.62,12.97,12.97,88,céu limpo,1758821042
-Vienna,AT,12.96,12.69,12.02,13.82,91,nublado,1758821126
-Moscow,RU,8.87,6.55,7.29,9.26,65,nublado,1758820983
-Gustavia,BL,30.79,37.79,30.79,30.79,78,nublado,1758821130
-Cairo,EG,28.42,28.2,28.01,28.42,42,céu limpo,1758820992
-Berlin,DE,14.27,13.11,12.83,14.99,52,algumas nuvens,1758820978
-Tehran,IR,21.51,20.21,21.51,21.99,19,céu limpo,1758821087
-Lusaka,ZM,25.55,24.79,25.55,25.55,24,céu limpo,1758821149
-Thimphu,BT,11.45,11.05,11.45,11.45,92,nublado,1758820979
-Saint-Pierre,PM,16.98,16.48,16.98,16.98,67,algumas nuvens,1758821152
-Ramallah,PS,19.77,19.94,19.74,19.77,82,algumas nuvens,1758820909
-Naypyidaw,MM,23.35,24.3,23.35,23.35,98,nublado,1758821155
-Monaco,MC,18.15,17.46,17.05,18.88,55,nublado,1758821156
-Quito,EC,19.53,19.08,19.53,19.53,59,chuva leve,1758821064
-Nassau,BS,30.99,37.57,30.99,30.99,70,nublado,1758820980
-Dodoma,TZ,24.95,24.41,24.95,24.95,35,nuvens dispersas,1758821162
-Bamako,ML,31.23,35.87,31.23,31.23,62,nuvens dispersas,1758821164
-Luxembourg,LU,8.03,5.28,7.24,9.18,96,nublado,1758821165
-Juba,SS,26.1,26.1,26.1,26.1,68,nublado,1758821166
-Monrovia,LR,26.71,28.73,26.71,26.71,75,nublado,1758821168
-Copenhagen,DK,13.96,13.13,13.19,13.97,66,nuvens dispersas,1758820968
-Pretoria,ZA,18.74,18.31,17.55,19.06,63,chuva moderada,1758821174
-Willemstad,CW,35.95,42.95,35.95,35.95,52,algumas nuvens,1758821097
-Gibraltar,GI,23.33,23.65,22.97,23.33,74,algumas nuvens,1758821012
-Lima,PE,16.14,16.11,16.14,16.14,88,nublado,1758821000
-Pyongyang,KP,17.63,17.88,17.63,17.63,93,céu limpo,1758821179
-Kampala,UG,20.1,19.99,20.1,20.1,70,nublado,1758821181
-Tallinn,EE,11.19,10.64,11.19,11.19,87,algumas nuvens,1758821182
-Wellington,NZ,9.8,6.63,8.84,11.48,65,céu limpo,1758821184
-Suva,FJ,21.71,22.55,21.71,21.71,100,nuvens dispersas,1758821185
-Mariehamn,AX,7.92,7.92,7.92,7.92,93,céu limpo,1758821187
-Oranjestad,AW,30.97,37.52,30.97,30.97,70,chuva leve,1758820928
-Jerusalem,IL,19.84,20.05,19.81,19.84,83,céu limpo,1758821189
-Pristina,XK,20.78,20.48,20.66,21.65,60,algumas nuvens,1758821191
-Beijing,CN,15.94,14.84,15.94,15.94,48,nublado,1758821148
-Nouméa,NC,18.52,18.23,18.52,18.52,69,nublado,1758821195
-Abuja,NG,27.08,30.64,27.08,27.08,87,chuva leve,1758821059
-Tashkent,UZ,22.97,22.13,22.97,22.97,31,fumaça,1758821199
-Lomé,TG,27.09,30.24,27.09,27.09,83,chuva leve,1758821201
-Tunis,TN,31.49,31.41,31.49,31.49,39,céu limpo,1758821202
-Basse-Terre,GP,27.58,30.95,27.58,27.58,79,chuva leve,1758821204
-Dublin,IE,14.61,13.69,13.66,15.21,60,algumas nuvens,1758821101
-Seoul,KR,17.76,18.2,16.78,17.76,100,névoa,1758821114
-Skopje,MK,22.82,22.44,22.82,22.82,49,nuvens dispersas,1758821210
-Belmopan,BZ,33.06,40.06,33.06,33.06,63,nublado,1758821211
-Algiers,DZ,22.9,23.05,22.9,22.9,69,chuva leve,1758820939
-Sarajevo,BA,17.95,17.81,17.95,17.95,77,algumas nuvens,1758821151
+Stockholm,SE,5.94,5.94,5.86,8.36,98,nuvens dispersas,1758838314
+Seoul,KR,16.76,17.1,16.76,16.78,100,névoa,1758838456
+Majuro,MH,30.98,37.55,29.98,30.98,70,chuva leve,1758838524
+Rabat,MA,18.04,18.51,18.04,18.04,100,nuvens dispersas,1758838525
+Plymouth,MS,27.23,30.05,27.23,27.23,78,chuva leve,1758838531
+Roseau,DM,27.74,31.05,27.74,27.74,77,chuva leve,1758838533
+Madrid,ES,15.95,14.51,13.53,17.13,35,céu limpo,1758838517
+Harare,ZW,16.57,16.03,16.57,16.57,67,céu limpo,1758838322
+Caracas,VE,25.67,26.49,25.67,25.67,84,chuva leve,1758838292
+Dublin,IE,8.02,6.43,6.99,9.93,88,nuvens dispersas,1758838465
+Monaco,MC,17.26,16.74,14.82,17.7,65,céu limpo,1758838546
+Cairo,EG,24.42,24.48,24.12,24.42,60,céu limpo,1758838321
+Tokyo,JP,24.15,24.68,22.59,24.8,79,nublado,1758838500
+Kyiv,UA,7.07,5.58,7.07,7.07,74,céu limpo,1758838553
+Funafuti,TV,32.0,39.0,32.0,32.0,66,nuvens dispersas,1758838556
+Malabo,GQ,25.01,25.86,25.01,25.01,88,nublado,1758838560
+Baku,AZ,16.03,16.14,16.03,16.03,94,céu limpo,1758838562
+Libreville,GA,24.15,24.97,24.15,24.15,90,chuva leve,1758838563
+Kralendijk,BQ,30.99,37.57,30.99,30.99,70,céu limpo,1758838286
+Vilnius,LT,5.49,5.49,4.53,5.49,87,névoa,1758838566
+Bridgetown,BB,28.79,33.18,28.79,28.79,75,nublado,1758838348
+London,GB,11.47,10.5,9.95,12.22,70,céu limpo,1758838569
+Marigot,MF,29.71,36.71,28.91,29.88,89,algumas nuvens,1758838570
+Antananarivo,MG,14.98,14.67,14.98,14.98,82,algumas nuvens,1758838572
+Pretoria,ZA,14.76,14.67,13.66,14.76,91,nublado,1758838391
+Ouagadougou,BF,23.07,23.89,23.07,23.07,94,chuva leve,1758838383
+Nuuk,GL,5.34,1.47,4.93,5.34,81,chuva leve,1758838577
+Lomé,TG,26.09,26.09,26.09,26.09,83,algumas nuvens,1758838579
+Berlin,DE,12.66,11.68,11.72,13.32,65,chuva leve,1758838501
+Praia,CV,25.3,26.18,25.3,25.3,88,nublado,1758838582
+Damascus,SY,19.42,19.27,19.42,19.42,71,céu limpo,1758838583
+Maputo,MZ,17.9,17.81,17.9,17.9,79,nublado,1758838586
+Luanda,AO,23.0,23.52,23.0,23.0,83,algumas nuvens,1758838333
+Nairobi,KE,16.78,16.52,16.78,16.78,77,nublado,1758838589
+Ljubljana,SI,13.84,13.68,12.48,14.18,92,nublado,1758838590
+Ankara,TR,17.34,16.75,15.51,17.34,62,céu limpo,1758838593
+Nassau,BS,29.99,36.01,29.99,29.99,74,nublado,1758838470
+Manila,PH,25.33,26.37,25.06,26.0,94,nublado,1758838541
+Beijing,CN,14.94,13.9,14.94,14.94,54,nublado,1758838500
+Jamestown,SH,16.96,16.75,16.96,16.96,78,nuvens dispersas,1758838599
+Tirana,AL,18.49,18.54,18.49,18.49,82,céu limpo,1758838600
+Jerusalem,IL,18.73,19.01,18.7,18.73,90,céu limpo,1758838602
+Basse-Terre,GP,24.58,25.42,24.58,24.58,89,chuva leve,1758838603
+Nicosia,CY,18.83,19.22,18.83,18.83,94,céu limpo,1758838604
+Adamstown,PN,21.52,21.92,21.52,21.52,84,chuva leve,1758838606
+Kigali,RW,18.18,17.93,18.18,18.71,72,nuvens dispersas,1758838607
+Yaren,NR,28.0,31.5,28.0,28.0,76,chuva leve,1758838609
+Niamey,NE,29.16,31.47,29.16,29.16,61,nublado,1758838610
+Yerevan,AM,11.09,9.77,11.09,11.09,58,céu limpo,1758838378
+Bratislava,SK,12.6,12.37,12.01,13.19,94,garoa de leve intensidade,1758838614
+Tbilisi,GE,16.84,16.46,16.84,16.84,72,céu limpo,1758838582
+Brasília,BR,24.49,24.43,21.7,24.51,55,nuvens dispersas,1758838430
+Apia,WS,31.95,38.95,31.95,31.95,81,nublado,1758838620
+Port-au-Prince,HT,29.79,35.48,29.79,29.79,74,chuva moderada,1758838622
+Tallinn,EE,12.19,11.45,12.19,12.19,76,algumas nuvens,1758838624
+Reykjavik,IS,8.81,5.51,8.81,11.05,93,chuva moderada,1758838603
+Riyadh,SA,29.79,27.97,29.79,29.79,13,céu limpo,1758838627
+Bamako,ML,25.23,25.85,25.23,25.23,78,trovoadas,1758838629
+Islamabad,PK,23.24,23.45,23.24,23.24,70,céu limpo,1758838630
+Philipsburg,SX,29.95,36.95,28.99,29.97,89,algumas nuvens,1758838492
+Athens,GR,23.0,22.9,21.78,23.98,59,algumas nuvens,1758838636
+Warsaw,PL,8.5,5.87,6.97,9.88,74,céu limpo,1758838358
+Stanley,FK,5.14,-0.83,5.14,5.14,85,nublado,1758838643
+Dili,TL,26.8,27.83,26.8,26.8,60,nuvens dispersas,1758838645
+Juba,SS,21.44,21.94,21.44,21.44,88,chuva leve,1758838646
+Tunis,TN,26.33,26.33,26.33,26.33,66,nublado,1758838648
+Moroni,KM,23.75,23.96,23.75,23.75,68,algumas nuvens,1758838649
+Douglas,IM,10.88,10.3,10.88,10.88,87,céu limpo,1758838650
+Asmara,ER,16.52,15.48,16.52,16.52,48,algumas nuvens,1758838652
+Ramallah,PS,18.66,18.93,18.63,18.66,90,algumas nuvens,1758838655
+Havana,CU,29.24,35.19,29.24,29.24,79,nuvens dispersas,1758838656
+Saipan,MP,28.85,34.75,28.39,29.95,82,nublado,1758838659
+Amsterdam,NL,12.66,11.63,11.59,13.33,63,nublado,1758838468
+Palikir,FM,30.3,37.3,29.47,30.41,78,chuva leve,1758838662
+Gibraltar,GI,20.56,21.02,19.97,20.56,90,céu limpo,1758838428
+Podgorica,ME,19.88,20.38,19.88,19.88,94,céu limpo,1758838651
+Jakarta,ID,25.2,26.13,24.49,25.61,90,nuvens dispersas,1758838630
+Belgrade,RS,16.48,15.67,16.3,16.88,57,chuva moderada,1758838568
+Astana,KZ,9.97,9.16,9.97,9.97,93,céu limpo,1758838672
+Nouméa,NC,23.89,24.92,23.89,23.89,99,nublado,1758838673
+Asunción,PY,26.78,27.0,24.72,26.81,46,céu limpo,1758838376
+Wellington,NZ,11.95,11.13,11.06,13.14,74,nublado,1758838531
+Dakar,SN,29.58,36.4,28.07,29.58,80,céu limpo,1758838434
+Amman,JO,19.05,18.89,17.75,19.05,72,céu limpo,1758838500
+Sarajevo,BA,14.95,14.96,14.95,14.95,94,nublado,1758838681
+Mamoudzou,YT,24.79,24.92,24.79,24.79,61,céu limpo,1758838682
+Maseru,LS,12.42,11.7,12.42,12.42,76,céu limpo,1758838683
+Montevideo,UY,14.26,13.91,13.01,14.77,83,céu limpo,1758838570
+Oranjestad,AW,30.74,37.74,29.97,31.06,77,algumas nuvens,1758838625
+Zagreb,HR,16.61,16.6,14.82,16.61,87,nublado,1758838688
+Paris,FR,11.19,10.58,10.2,11.88,85,nublado,1758838610
+Saint-Denis,RE,21.1,20.73,18.19,21.1,56,nublado,1758838693
+Bucharest,RO,13.29,12.03,12.7,14.05,52,chuva forte,1758838500
+Dodoma,TZ,20.78,20.22,20.78,20.78,50,céu limpo,1758838699
+Bissau,GW,27.06,30.17,27.06,27.06,83,trovoadas,1758838701
+Pyongyang,KP,16.79,17.01,16.79,16.79,95,nuvens dispersas,1758838702
+Tripoli,LY,24.92,25.16,24.92,24.92,65,algumas nuvens,1758838599
+Accra,GH,26.23,26.23,26.23,26.23,89,nublado,1758838459
+Bogotá,CO,16.45,15.43,15.81,16.49,49,nublado,1758838631
+Valletta,MT,23.3,23.25,23.3,23.3,60,céu limpo,1758838708
+Yamoussoukro,CI,23.81,24.54,23.81,23.94,88,céu limpo,1758838441
+Sucre,BO,17.15,15.94,17.15,17.15,39,nuvens dispersas,1758838712
+Beirut,LB,25.41,25.81,21.88,25.41,69,nuvens dispersas,1758838429
+Helsinki,FI,8.13,6.81,5.8,9.31,90,céu limpo,1758838707
+Tórshavn,FO,12.66,12.28,12.66,12.66,88,nublado,1758838716
+Brazzaville,CG,24.17,24.37,24.17,24.17,66,chuva leve,1758838718
+Luxembourg,LU,7.62,5.02,7.13,8.63,96,nublado,1758838719
+Skopje,MK,21.82,21.62,21.82,21.82,60,nublado,1758838635
+Hamilton,BM,28.82,33.45,28.02,28.89,76,nublado,1758838516
+Dushanbe,TJ,16.9,16.19,16.9,16.9,59,neblina,1758838724
+Ottawa,CA,17.47,17.65,16.73,17.77,91,garoa de leve intensidade,1758838473
+Rome,IT,17.59,16.84,15.79,17.85,55,céu limpo,1758838726
+Mariehamn,AX,6.92,6.92,6.92,6.92,93,céu limpo,1758838460
+Gustavia,BL,28.56,34.52,28.56,28.95,85,nublado,1758838729
+Honiara,SB,28.3,31.87,28.3,28.3,74,algumas nuvens,1758838684
+Willemstad,CW,31.55,38.55,30.95,31.55,69,chuva leve,1758838732
+Bern,CH,10.13,9.47,9.95,11.32,87,chuva leve,1758838734
+Lusaka,ZM,20.14,19.25,20.14,20.14,40,céu limpo,1758838663
+Brussels,BE,9.58,8.28,8.98,10.44,82,nublado,1758838614
+Tehran,IR,19.84,18.51,19.84,19.99,24,céu limpo,1758838744
+Minsk,BY,2.36,2.36,2.36,2.36,66,céu limpo,1758838570
+Lisbon,PT,20.34,19.29,19.51,20.6,33,céu limpo,1758838596
+Bangui,CF,20.72,21.41,20.72,20.72,98,nublado,1758838750
+Muscat,OM,28.68,34.26,28.68,28.68,82,céu limpo,1758838751
+Gaborone,BW,16.95,16.58,16.95,16.95,72,céu limpo,1758838752
+Freetown,SL,25.69,26.53,25.69,25.69,85,nublado,1758838754
+Gitega,BI,21.02,20.56,21.02,21.02,53,nublado,1758838755
+Kinshasa,CD,24.18,25.11,24.18,24.18,94,trovoada com chuva fraca,1758838500
+Naypyidaw,MM,22.81,23.71,22.81,22.81,98,nublado,1758838760
+Conakry,GN,26.04,26.04,26.04,26.04,94,nuvens dispersas,1758838763
+Managua,NI,31.69,35.01,31.69,31.69,55,nuvens dispersas,1758838637
+Taipei,TW,28.59,29.59,27.93,28.92,54,nublado,1758838767
+Manama,BH,30.55,35.36,28.99,30.55,66,céu limpo,1758838768
+Doha,QA,29.57,30.57,27.17,29.99,51,céu limpo,1758838506
+Oslo,NO,5.31,5.31,5.31,5.69,93,nuvens dispersas,1758838525
+Riga,LV,9.46,8.99,9.04,9.46,93,nublado,1758838773
+Copenhagen,DK,12.32,11.8,11.19,12.94,84,algumas nuvens,1758838774
+Porto-Novo,BJ,25.9,26.92,25.9,25.9,91,nublado,1758838775
+Suva,FJ,26.71,29.34,26.71,26.71,83,nublado,1758838777
+Malé,MV,28.97,34.44,28.97,28.97,79,nublado,1758838510
+Santiago,CL,19.51,18.82,18.58,21.08,50,nublado,1758838499
+Moscow,RU,5.79,3.57,5.24,6.32,75,nublado,1758838559
+Sofia,BG,16.83,16.21,16.83,16.83,63,nublado,1758838784
+Thimphu,BT,10.56,9.89,10.56,10.56,85,céu limpo,1758838785
+Basseterre,KN,29.21,35.1,28.15,29.21,79,algumas nuvens,1758838785
+Saint-Pierre,PM,12.98,12.63,12.98,12.98,88,céu limpo,1758838788
+Kabul,AF,16.85,16.29,16.85,16.85,65,céu limpo,1758838790
+Longyearbyen,SJ,1.91,-2.32,1.91,1.91,80,nublado,1758838791
+Vaduz,LI,10.18,9.66,9.23,10.87,92,nublado,1758838792
+Algiers,DZ,21.9,22.18,21.9,21.9,78,trovoadas,1758838785
+Nouakchott,MR,28.96,32.82,28.96,28.96,71,nublado,1758838795
+Mogadishu,SO,24.77,25.44,24.77,24.77,82,algumas nuvens,1758838797
+Chișinău,MD,9.24,9.24,9.24,9.24,43,céu limpo,1758838798
+Dhaka,BD,27.99,33.54,27.99,27.99,89,neblina,1758838693
+Banjul,GM,27.18,31.73,27.18,27.18,94,nuvens dispersas,1758838801
+Baghdad,IQ,22.95,21.95,22.95,22.95,25,algumas nuvens,1758838772
+Singapore,SG,28.25,33.08,27.95,28.92,82,nublado,1758838632
+Djibouti,DJ,31.13,32.25,31.13,31.13,47,nublado,1758838805
+Hagåtña,GU,27.7,32.21,26.49,29.05,86,nublado,1758838808
+Mbabane,SZ,9.02,9.02,9.02,9.02,87,nuvens dispersas,1758838810
+Avarua,CK,25.03,25.18,25.03,25.03,61,nuvens dispersas,1758838811
+Prague,CZ,9.19,7.49,8.45,9.98,96,garoa de leve intensidade,1758838812
+Bishkek,KG,9.11,8.57,9.11,9.11,31,nuvens dispersas,1758838814
+Budapest,HU,12.77,12.48,12.66,13.8,91,chuva leve,1758838740
+Alofi,NU,27.94,30.42,27.94,27.94,69,nuvens dispersas,1758838820
+Kingston,NF,20.23,20.21,20.23,20.23,73,algumas nuvens,1758838821
+Khartoum,SD,31.6,31.25,31.6,31.6,37,nublado,1758838823
+Hanoi,VN,24.0,24.91,24.0,24.0,94,nublado,1758838623
+Ashgabat,TM,17.92,17.13,17.92,17.92,52,céu limpo,1758838828
+Quito,EC,15.53,14.81,15.53,15.53,64,chuva leve,1758838800
+Belmopan,BZ,32.91,39.65,32.91,32.91,61,nuvens dispersas,1758838596
+Cayenne,GF,28.02,32.62,28.02,28.02,83,nublado,1758838833
+Mata-Utu,WF,27.35,30.42,27.35,27.35,79,nublado,1758838834
+Bangkok,TH,27.9,31.7,26.94,28.28,79,nublado,1758838672
+Fort-de-France,MQ,28.97,34.44,28.97,28.97,79,nuvens dispersas,1758838837
+Georgetown,GY,27.99,31.77,27.99,27.99,78,algumas nuvens,1758838838
+Kathmandu,NP,22.12,23.0,22.12,22.12,100,nuvens dispersas,1758838661
+Papeetē,PF,28.96,31.12,28.96,28.96,61,chuva leve,1758838841
+Lima,PE,17.14,17.05,17.14,17.14,82,nublado,1758838843
+Tegucigalpa,HN,30.25,31.1,30.25,30.42,48,nuvens dispersas,1758838765
+Paramaribo,SR,25.85,26.71,25.85,25.85,85,nublado,1758838845
+Kampala,UG,18.1,18.21,18.1,18.1,86,nublado,1758838848
+Abuja,NG,23.08,23.85,23.08,23.08,92,nuvens dispersas,1758838810
+Pristina,XK,16.33,15.95,15.65,16.45,74,nuvens dispersas,1758838615
+Victoria,SC,25.59,26.37,25.59,25.59,83,nuvens dispersas,1758838853
+Yaoundé,CM,21.74,22.27,21.74,21.74,88,nuvens dispersas,1758838854
+Castries,LC,27.88,32.72,26.98,28.07,86,algumas nuvens,1758838784
+Lilongwe,MW,22.53,21.86,22.53,22.53,39,céu limpo,1758838857
+Vientiane,LA,27.04,31.87,27.04,27.04,99,chuva leve,1758838833
+Kingston,JM,28.53,33.28,28.53,28.53,79,nublado,1758838861
+Canberra,AU,12.97,12.18,12.09,13.49,71,algumas nuvens,1758838819
+Vienna,AT,12.63,12.32,11.47,13.82,91,garoa de leve intensidade,1758838864
+Port-aux-Français,TF,1.94,-3.64,1.94,1.94,66,nublado,1758838865
+Kingstown,VC,28.6,33.46,28.6,28.6,79,algumas nuvens,1758838598
+Monrovia,LR,25.02,25.88,25.02,25.02,88,chuva leve,1758838727
+Tashkent,UZ,19.97,18.99,19.97,19.97,37,fumaça,1758838871

@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: projeto_paises
+    schema: public
+    tables:
+      - name: fato_pais
+      - name: tbl_dim_pais
+      - name: tbl_clima_capital_pais
+      - name: tbl_dados_banco_mundial
