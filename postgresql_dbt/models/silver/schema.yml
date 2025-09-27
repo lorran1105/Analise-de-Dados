@@ -1,0 +1,37 @@
+version: 2
+
+models:
+  - name: silver_dim_pais
+    description: "Dimensão de países com códigos padronizados e nomes normalizados."
+    columns:
+      - name: codigo_alpha3
+        tests:
+          - not_null
+          - unique
+      - name: nome_pais
+        tests:
+          - not_null
+
+  - name: silver_dim_banco_mundial
+    description: "Indicadores econômicos tratados e tipados por país/ano (mantém histórico completo)."
+    columns:
+      - name: nome_pais
+        tests:
+          - not_null
+      - name: ano
+        tests:
+          - not_null
+
+  - name: silver_dim_clima_capital
+    description: "Dados de clima das capitais, mantido último registro por país."
+    columns:
+      - name: codigo_pais
+        tests:
+          - not_null
+
+  - name: silver_fato_pais
+    description: "Tabela fato principal com dados demográficos e estruturais dos países."
+    columns:
+      - name: nome_pais
+        tests:
+          - not_null
