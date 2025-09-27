@@ -19,7 +19,8 @@ renamed as (
     "Taxa_Homicidios_100mil",
     "Desemprego_percentual",
     "Expectativa_vida",
-    "Gasto_saude_PIB"
+    "Gasto_saude_PIB",
+    "data_extracao"
     FROM source
 
 

@@ -1,0 +1,19 @@
+version: 2
+
+models:
+  - name: gold_kpi_paises_analitico
+    description: "Tabela analítica com KPIs unificados e YoY de todos os indicadores econômicos do Banco Mundial."
+    columns:
+      - name: nome_pais
+        tests:
+          - not_null
+      - name: ano
+        description: "Ano da medição dos indicadores."
+      - name: pib_yoy
+        description: "Variação YoY do PIB."
+      - name: renda_yoy
+        description: "Variação YoY da Renda per Capita."
+      - name: inflacao_yoy
+        description: "Variação YoY da Inflação."
+      - name: expectativa_vida_yoy
+        description: "Variação YoY da Expectativa de Vida."
