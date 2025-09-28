@@ -21,92 +21,98 @@ dim_clima as (
 
 bm as (
 
-    select
-        nome_pais,
-        ano,
-        pib_usd,
-        renda_per_capita,
-        inflacao,
-        crescimento_pib,
-        invest_estrangeiro,
-        florestas_percentual,
-        energia_per_capita,
-        gasto_militar_pib,
-        taxa_homicidios_100mil,
-        desemprego_percentual,
-        expectativa_vida,
-        gasto_saude_pib
+    select *
     from {{ ref('silver_dim_banco_mundial') }}
+
 ),
 
--- Identifica o último ano de cada país
-ultimo_ano as (
-    select 
+-- Coleta o último ano disponível para cada KPI por país
+bm_yoy as (
+    select
         nome_pais,
-        max(ano) as ano_max
+        max(ano) filter (where pib_usd is not null) as ano_pib,
+        max(ano) filter (where renda_per_capita is not null) as ano_renda,
+        max(ano) filter (where inflacao is not null) as ano_inflacao,
+        max(ano) filter (where crescimento_pib is not null) as ano_crescimento_pib,
+        max(ano) filter (where invest_estrangeiro is not null) as ano_invest_estrangeiro,
+        max(ano) filter (where florestas_percentual is not null) as ano_florestas,
+        max(ano) filter (where energia_per_capita is not null) as ano_energia,
+        max(ano) filter (where gasto_militar_pib is not null) as ano_gasto_militar,
+        max(ano) filter (where taxa_homicidios_100mil is not null) as ano_homicidios,
+        max(ano) filter (where desemprego_percentual is not null) as ano_desemprego,
+        max(ano) filter (where expectativa_vida is not null) as ano_expectativa,
+        max(ano) filter (where gasto_saude_pib is not null) as ano_gasto_saude
     from bm
     group by nome_pais
 ),
 
--- Traz último ano e o anterior para cálculo do YoY
-bm_comparativo as (
+-- Adiciona os valores dos KPIs do ano mais recente
+bm_final as (
     select
-        b.*,
-        lag(b.pib_usd) over(partition by b.nome_pais order by b.ano) as pib_usd_prev,
-        lag(b.renda_per_capita) over(partition by b.nome_pais order by b.ano) as renda_prev,
-        lag(b.inflacao) over(partition by b.nome_pais order by b.ano) as inflacao_prev,
-        lag(b.crescimento_pib) over(partition by b.nome_pais order by b.ano) as crescimento_prev,
-        lag(b.invest_estrangeiro) over(partition by b.nome_pais order by b.ano) as invest_prev,
-        lag(b.florestas_percentual) over(partition by b.nome_pais order by b.ano) as florestas_prev,
-        lag(b.energia_per_capita) over(partition by b.nome_pais order by b.ano) as energia_prev,
-        lag(b.gasto_militar_pib) over(partition by b.nome_pais order by b.ano) as militar_prev,
-        lag(b.taxa_homicidios_100mil) over(partition by b.nome_pais order by b.ano) as homicidios_prev,
-        lag(b.desemprego_percentual) over(partition by b.nome_pais order by b.ano) as desemprego_prev,
-        lag(b.expectativa_vida) over(partition by b.nome_pais order by b.ano) as expectativa_prev,
-        lag(b.gasto_saude_pib) over(partition by b.nome_pais order by b.ano) as saude_prev
-    from bm b
-),
-
--- Mantém só o último ano e calcula YoY
-bm_yoy as (
-    select
-        b.nome_pais,
-        b.ano,
-
-        -- KPIs valor do último ano
-        b.pib_usd,
-        b.renda_per_capita,
-        b.inflacao,
-        b.crescimento_pib,
-        b.invest_estrangeiro,
-        b.florestas_percentual,
-        b.energia_per_capita,
-        b.gasto_militar_pib,
-        b.taxa_homicidios_100mil,
-        b.desemprego_percentual,
-        b.expectativa_vida,
-        b.gasto_saude_pib,
-
-        -- KPIs YoY
-        round(((b.pib_usd - b.pib_usd_prev) / nullif(b.pib_usd_prev,0)) * 100, 2) as pib_yoy,
-        round(((b.renda_per_capita - b.renda_prev) / nullif(b.renda_prev,0)) * 100, 2) as renda_yoy,
-        round(((b.inflacao - b.inflacao_prev) / nullif(b.inflacao_prev,0)) * 100, 2) as inflacao_yoy,
-        round(((b.crescimento_pib - b.crescimento_prev) / nullif(b.crescimento_prev,0)) * 100, 2) as crescimento_pib_yoy,
-        round(((b.invest_estrangeiro - b.invest_prev) / nullif(b.invest_prev,0)) * 100, 2) as invest_estrangeiro_yoy,
-        round(((b.florestas_percentual - b.florestas_prev) / nullif(b.florestas_prev,0)) * 100, 2) as florestas_percentual_yoy,
-        round(((b.energia_per_capita - b.energia_prev) / nullif(b.energia_prev,0)) * 100, 2) as energia_per_capita_yoy,
-        round(((b.gasto_militar_pib - b.militar_prev) / nullif(b.militar_prev,0)) * 100, 2) as gasto_militar_pib_yoy,
-        round(((b.taxa_homicidios_100mil - b.homicidios_prev) / nullif(b.homicidios_prev,0)) * 100, 2) as taxa_homicidios_yoy,
-        round(((b.desemprego_percentual - b.desemprego_prev) / nullif(b.desemprego_prev,0)) * 100, 2) as desemprego_yoy,
-        round(((b.expectativa_vida - b.expectativa_prev) / nullif(b.expectativa_prev,0)) * 100, 2) as expectativa_vida_yoy,
-        round(((b.gasto_saude_pib - b.saude_prev) / nullif(b.saude_prev,0)) * 100, 2) as gasto_saude_yoy
-    from bm_comparativo b
-    join ultimo_ano u
-      on b.nome_pais = u.nome_pais
-     and b.ano = u.ano_max
+        t1.nome_pais,
+        t1.ano as ano_pib,
+        t1.pib_usd,
+        round(((t1.pib_usd - lag(t1.pib_usd) over(partition by t1.nome_pais order by t1.ano)) / nullif(lag(t1.pib_usd) over(partition by t1.nome_pais order by t1.ano),0)) * 100, 2) as pib_yoy,
+        
+        t2.ano as ano_renda,
+        t2.renda_per_capita,
+        round(((t2.renda_per_capita - lag(t2.renda_per_capita) over(partition by t2.nome_pais order by t2.ano)) / nullif(lag(t2.renda_per_capita) over(partition by t2.nome_pais order by t2.ano),0)) * 100, 2) as renda_per_capita_yoy,
+        
+        t3.ano as ano_inflacao,
+        t3.inflacao,
+        round(((t3.inflacao - lag(t3.inflacao) over(partition by t3.nome_pais order by t3.ano)) / nullif(lag(t3.inflacao) over(partition by t3.nome_pais order by t3.ano),0)) * 100, 2) as inflacao_yoy,
+        
+        t4.ano as ano_crescimento,
+        t4.crescimento_pib,
+        round(((t4.crescimento_pib - lag(t4.crescimento_pib) over(partition by t4.nome_pais order by t4.ano)) / nullif(lag(t4.crescimento_pib) over(partition by t4.nome_pais order by t4.ano),0)) * 100, 2) as crescimento_pib_yoy,
+        
+        t5.ano as ano_investimento,
+        t5.invest_estrangeiro,
+        round(((t5.invest_estrangeiro - lag(t5.invest_estrangeiro) over(partition by t5.nome_pais order by t5.ano)) / nullif(lag(t5.invest_estrangeiro) over(partition by t5.nome_pais order by t5.ano),0)) * 100, 2) as invest_estrangeiro_yoy,
+        
+        t6.ano as ano_florestas,
+        t6.florestas_percentual,
+        round(((t6.florestas_percentual - lag(t6.florestas_percentual) over(partition by t6.nome_pais order by t6.ano)) / nullif(lag(t6.florestas_percentual) over(partition by t6.nome_pais order by t6.ano),0)) * 100, 2) as florestas_percentual_yoy,
+        
+        t7.ano as ano_energia,
+        t7.energia_per_capita,
+        round(((t7.energia_per_capita - lag(t7.energia_per_capita) over(partition by t7.nome_pais order by t7.ano)) / nullif(lag(t7.energia_per_capita) over(partition by t7.nome_pais order by t7.ano),0)) * 100, 2) as energia_per_capita_yoy,
+        
+        t8.ano as ano_gasto_militar,
+        t8.gasto_militar_pib,
+        round(((t8.gasto_militar_pib - lag(t8.gasto_militar_pib) over(partition by t8.nome_pais order by t8.ano)) / nullif(lag(t8.gasto_militar_pib) over(partition by t8.nome_pais order by t8.ano),0)) * 100, 2) as gasto_militar_pib_yoy,
+        
+        t9.ano as ano_homicidios,
+        t9.taxa_homicidios_100mil,
+        round(((t9.taxa_homicidios_100mil - lag(t9.taxa_homicidios_100mil) over(partition by t9.nome_pais order by t9.ano)) / nullif(lag(t9.taxa_homicidios_100mil) over(partition by t9.nome_pais order by t9.ano),0)) * 100, 2) as taxa_homicidios_100mil_yoy,
+        
+        t10.ano as ano_desemprego,
+        t10.desemprego_percentual,
+        round(((t10.desemprego_percentual - lag(t10.desemprego_percentual) over(partition by t10.nome_pais order by t10.ano)) / nullif(lag(t10.desemprego_percentual) over(partition by t10.nome_pais order by t10.ano),0)) * 100, 2) as desemprego_percentual_yoy,
+        
+        t11.ano as ano_expectativa,
+        t11.expectativa_vida,
+        round(((t11.expectativa_vida - lag(t11.expectativa_vida) over(partition by t11.nome_pais order by t11.ano)) / nullif(lag(t11.expectativa_vida) over(partition by t11.nome_pais order by t11.ano),0)) * 100, 2) as expectativa_vida_yoy,
+        
+        t12.ano as ano_gasto_saude,
+        t12.gasto_saude_pib,
+        round(((t12.gasto_saude_pib - lag(t12.gasto_saude_pib) over(partition by t12.nome_pais order by t12.ano)) / nullif(lag(t12.gasto_saude_pib) over(partition by t12.nome_pais order by t12.ano),0)) * 100, 2) as gasto_saude_pib_yoy
+    from bm_yoy
+    left join bm t1 on bm_yoy.nome_pais = t1.nome_pais and bm_yoy.ano_pib = t1.ano
+    left join bm t2 on bm_yoy.nome_pais = t2.nome_pais and bm_yoy.ano_renda = t2.ano
+    left join bm t3 on bm_yoy.nome_pais = t3.nome_pais and bm_yoy.ano_inflacao = t3.ano
+    left join bm t4 on bm_yoy.nome_pais = t4.nome_pais and bm_yoy.ano_crescimento_pib = t4.ano
+    left join bm t5 on bm_yoy.nome_pais = t5.nome_pais and bm_yoy.ano_invest_estrangeiro = t5.ano
+    left join bm t6 on bm_yoy.nome_pais = t6.nome_pais and bm_yoy.ano_florestas = t6.ano
+    left join bm t7 on bm_yoy.nome_pais = t7.nome_pais and bm_yoy.ano_energia = t7.ano
+    left join bm t8 on bm_yoy.nome_pais = t8.nome_pais and bm_yoy.ano_gasto_militar = t8.ano
+    left join bm t9 on bm_yoy.nome_pais = t9.nome_pais and bm_yoy.ano_homicidios = t9.ano
+    left join bm t10 on bm_yoy.nome_pais = t10.nome_pais and bm_yoy.ano_desemprego = t10.ano
+    left join bm t11 on bm_yoy.nome_pais = t11.nome_pais and bm_yoy.ano_expectativa = t11.ano
+    left join bm t12 on bm_yoy.nome_pais = t12.nome_pais and bm_yoy.ano_gasto_saude = t12.ano
 )
 
--- União final
+-- União final das tabelas para criar a camada Gold
 select
     f.nome_pais,
     f.capital,
@@ -128,26 +134,46 @@ select
     c.umidade,
     c.descricao_clima,
 
-    y.ano as ano_atual,
-
-    -- KPIs + YoY
-    y.pib_usd,              y.pib_yoy,
-    y.renda_per_capita,     y.renda_yoy,
-    y.inflacao,             y.inflacao_yoy,
-    y.crescimento_pib,      y.crescimento_pib_yoy,
-    y.invest_estrangeiro,   y.invest_estrangeiro_yoy,
-    y.florestas_percentual, y.florestas_percentual_yoy,
-    y.energia_per_capita,   y.energia_per_capita_yoy,
-    y.gasto_militar_pib,    y.gasto_militar_pib_yoy,
-    y.taxa_homicidios_100mil, y.taxa_homicidios_yoy,
-    y.desemprego_percentual, y.desemprego_yoy,
-    y.expectativa_vida,     y.expectativa_vida_yoy,
-    y.gasto_saude_pib,      y.gasto_saude_yoy
-
+    y.ano_pib,
+    y.pib_usd,
+    y.pib_yoy,
+    y.ano_renda,
+    y.renda_per_capita,
+    y.renda_per_capita_yoy,
+    y.ano_inflacao,
+    y.inflacao,
+    y.inflacao_yoy,
+    y.ano_crescimento,
+    y.crescimento_pib,
+    y.crescimento_pib_yoy,
+    y.ano_investimento,
+    y.invest_estrangeiro,
+    y.invest_estrangeiro_yoy,
+    y.ano_florestas,
+    y.florestas_percentual,
+    y.florestas_percentual_yoy,
+    y.ano_energia,
+    y.energia_per_capita,
+    y.energia_per_capita_yoy,
+    y.ano_gasto_militar,
+    y.gasto_militar_pib,
+    y.gasto_militar_pib_yoy,
+    y.ano_homicidios,
+    y.taxa_homicidios_100mil,
+    y.taxa_homicidios_100mil_yoy,
+    y.ano_desemprego,
+    y.desemprego_percentual,
+    y.desemprego_percentual_yoy,
+    y.ano_expectativa,
+    y.expectativa_vida,
+    y.expectativa_vida_yoy,
+    y.ano_gasto_saude,
+    y.gasto_saude_pib,
+    y.gasto_saude_pib_yoy
 from fato f
 left join dim_pais p
     on f.nome_oficial = p.nome_oficial
 left join dim_clima c
     on f.nome_resumido = c.codigo_pais
-left join bm_yoy y
+left join bm_final y
     on f.nome_pais = y.nome_pais

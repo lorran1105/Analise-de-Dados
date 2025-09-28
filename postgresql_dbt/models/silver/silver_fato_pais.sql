@@ -1,12 +1,8 @@
 with bronze as (
-
-    select * 
-    from {{ ref('bronze_fato_pais') }}
-
+    select * from {{ ref('bronze_fato_pais') }}
 ),
 
 tratado as (
-
     select
         upper(trim(nome_resumido)) as nome_resumido,
         upper(trim(nome)) as nome_pais,
@@ -21,7 +17,6 @@ tratado as (
         trim(bandeira_url) as bandeira_url,
         cast(data_carga as timestamp) as data_carga
     from bronze
-
 )
 
 select * from tratado
