@@ -6,7 +6,7 @@ SELECT * FROM {{ source('projeto_paises', 'tbl_dados_banco_mundial') }}
 renamed as (
 
    SELECT 
-   country country_name ,
+   countryiso3code country_name ,
     date,
     "PIB_USD",
     "Renda_per_capita",

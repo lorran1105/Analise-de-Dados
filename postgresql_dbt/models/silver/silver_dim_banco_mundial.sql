@@ -1,7 +1,10 @@
+{{ config(
+    materialized='ephemeral'
+) }}
+
 with bronze as (
 
-    select * 
-    from {{ ref('bronze_dim_banco_mundial') }}
+    select * from {{ ref('bronze_dim_banco_mundial') }}
 
 ),
 
@@ -36,10 +39,8 @@ tratado as (
         cast("Taxa_Homicidios_100mil" as numeric) as taxa_homicidios_100mil,
         cast("Desemprego_percentual" as numeric) as desemprego_percentual,
         cast("Expectativa_vida" as numeric) as expectativa_vida,
-        cast("Gasto_saude_PIB" as numeric) as gasto_saude_pib,
-        cast(data_extracao as timestamp) as data_extracao
+        cast("Gasto_saude_PIB" as numeric) as gasto_saude_pib
     from bronze
-
 )
 
 select * from tratado

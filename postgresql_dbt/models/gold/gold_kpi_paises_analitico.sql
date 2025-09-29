@@ -1,35 +1,41 @@
-with fato as (
+--
+-- Este modelo cria uma tabela de fatos unificada, pronta para análise.
+-- Ele consolida dados demográficos, climáticos e KPIs econômicos
+-- mais recentes de cada país em uma única linha, facilitando o consumo
+-- em ferramentas de Business Intelligence.
+--
 
+-- CTEs (Common Table Expressions) para referenciar as tabelas Silver de origem
+with fato as (
+    -- Referencia a tabela fato principal com dados como população, área e região.
     select *
     from {{ ref('silver_fato_pais') }}
-
 ),
 
 dim_pais as (
-
+    -- Referencia a dimensão de países com códigos padronizados (Alpha2, Alpha3, etc.).
     select *
     from {{ ref('silver_dim_pais') }}
-
 ),
 
 dim_clima as (
-
+    -- Referencia a dimensão de clima com os dados mais recentes das capitais.
     select *
     from {{ ref('silver_dim_clima_capital') }}
-
 ),
 
 bm as (
-
+    -- Referencia a dimensão do Banco Mundial, que contém o histórico completo de KPIs.
     select *
     from {{ ref('silver_dim_banco_mundial') }}
-
 ),
 
--- Coleta o último ano disponível para cada KPI por país
+-- Coleta o último ano disponível para cada KPI para cada país
 bm_yoy as (
     select
         nome_pais,
+        -- Usamos a função MAX com FILTER para encontrar o ano mais recente com valor não nulo
+        -- para cada métrica específica, garantindo que não peguemos dados desatualizados.
         max(ano) filter (where pib_usd is not null) as ano_pib,
         max(ano) filter (where renda_per_capita is not null) as ano_renda,
         max(ano) filter (where inflacao is not null) as ano_inflacao,
@@ -46,14 +52,17 @@ bm_yoy as (
     group by nome_pais
 ),
 
--- Adiciona os valores dos KPIs do ano mais recente
+-- Adiciona os valores dos KPIs e o cálculo do ano a ano (YoY) do ano mais recente
 bm_final as (
     select
         t1.nome_pais,
+        -- Busca o ano e o valor do PIB para o ano mais recente encontrado acima.
         t1.ano as ano_pib,
         t1.pib_usd,
+        -- Calcula a variação anual (Year-over-Year - YoY) do PIB.
         round(((t1.pib_usd - lag(t1.pib_usd) over(partition by t1.nome_pais order by t1.ano)) / nullif(lag(t1.pib_usd) over(partition by t1.nome_pais order by t1.ano),0)) * 100, 2) as pib_yoy,
         
+        -- Repete a mesma lógica para os demais KPIs
         t2.ano as ano_renda,
         t2.renda_per_capita,
         round(((t2.renda_per_capita - lag(t2.renda_per_capita) over(partition by t2.nome_pais order by t2.ano)) / nullif(lag(t2.renda_per_capita) over(partition by t2.nome_pais order by t2.ano),0)) * 100, 2) as renda_per_capita_yoy,
@@ -98,7 +107,8 @@ bm_final as (
         t12.gasto_saude_pib,
         round(((t12.gasto_saude_pib - lag(t12.gasto_saude_pib) over(partition by t12.nome_pais order by t12.ano)) / nullif(lag(t12.gasto_saude_pib) over(partition by t12.nome_pais order by t12.ano),0)) * 100, 2) as gasto_saude_pib_yoy
     from bm_yoy
-    left join bm t1 on bm_yoy.nome_pais = t1.nome_pais and bm_yoy.ano_pib = t1.ano
+    --  LEFT JOINs para buscar o valor de cada KPI no seu ano mais recente.
+      left join bm t1 on bm_yoy.nome_pais = t1.nome_pais and bm_yoy.ano_pib = t1.ano
     left join bm t2 on bm_yoy.nome_pais = t2.nome_pais and bm_yoy.ano_renda = t2.ano
     left join bm t3 on bm_yoy.nome_pais = t3.nome_pais and bm_yoy.ano_inflacao = t3.ano
     left join bm t4 on bm_yoy.nome_pais = t4.nome_pais and bm_yoy.ano_crescimento_pib = t4.ano
@@ -114,6 +124,7 @@ bm_final as (
 
 -- União final das tabelas para criar a camada Gold
 select
+    -- Seleciona dados de fatos sobre o país.
     f.nome_pais,
     f.capital,
     f.regiao,
@@ -124,16 +135,19 @@ select
     f.moedas,
     f.bandeira_url,
 
+    -- Seleciona códigos de identificação do país.
     p.codigo_alpha2,
     p.codigo_alpha3,
     p.codigo_numerico,
     p.codigo_olimpico,
 
+    -- Seleciona os dados climáticos.
     c.temperatura,
     c.sensacao_termica,
     c.umidade,
     c.descricao_clima,
 
+    -- Seleciona os KPIs do Banco Mundial com os valores e variação mais recentes.
     y.ano_pib,
     y.pib_usd,
     y.pib_yoy,

@@ -1,3 +1,7 @@
+{{ config(
+    materialized='ephemeral'
+) }}
+
 with bronze as (
     select * from {{ ref('bronze_fato_pais') }}
 ),
