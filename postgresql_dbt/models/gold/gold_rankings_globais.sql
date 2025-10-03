@@ -1,3 +1,8 @@
+{{ config(
+    materialized='table'
+) }}
+
+
 with bm as (
     -- Seleciona os dados do Banco Mundial já tratados
     select
@@ -37,7 +42,7 @@ select
     rank() over (order by k.renda_per_capita desc) as rank_renda_per_capita
     
 from kpi_mais_recente k
-left join {{ ref('silver_fato_pais') }} f on k.nome_pais = f.nome_pais
-left join {{ ref('silver_dim_pais') }} p on k.nome_pais = p.nome_pais
+left join {{ ref('silver_fato_pais') }} f
+    -- CORREÇÃO: Usa 'f.nome_pais' em vez de 'f.nome'
+    on k.nome_pais = f.nome_pais
 where k.rn = 1
-order by rank_pib asc

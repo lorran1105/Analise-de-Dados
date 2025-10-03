@@ -1,3 +1,4 @@
+
 --
 -- Este modelo cria uma tabela de fatos unificada, pronta para análise.
 -- Ele consolida dados demográficos, climáticos e KPIs econômicos

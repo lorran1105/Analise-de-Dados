@@ -5,6 +5,7 @@ config-version: 2
 profile: 'postgresql_dbt'
 
 model-paths: ["postgresql_dbt/models"]
+macro-paths: ["postgresql_dbt/macros"]
 
 target-path: "target"
 clean-targets:
@@ -22,3 +23,9 @@ models:
     gold:
       +materialized: table
       +schema: gold
+
+    # Hooks globais (centralizados no schema public)
+    +pre-hook:
+      - "insert into public.dbt_logs (model_name, status, execution_started_at) values ('{{ this.name }}', 'started', now())"
+    +post-hook:
+      - "insert into public.dbt_logs (model_name, status, execution_finished_at) values ('{{ this.name }}', 'finished', now())"

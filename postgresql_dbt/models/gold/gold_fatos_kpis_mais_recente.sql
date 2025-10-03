@@ -34,57 +34,16 @@ kpis_classificados as (
         nome_pais,
         ano,
         
-        -- Classificação de Renda (baseada no Banco Mundial)
-        case
-            when renda_per_capita >= 13846 then 'Renda Alta'
-            when renda_per_capita >= 4466 then 'Renda Media-Alta'
-            when renda_per_capita >= 1136 then 'Renda Media-Baixa'
-            else 'Renda Baixa'
-        end as categoria_renda,
-
-        -- Classificação de Inflação
-        case
-            when inflacao >= 20 then 'Hiperinflacao'
-            when inflacao >= 5 then 'Alta Inflacao'
-            when inflacao >= 0 then 'Inflacao Moderada'
-            else 'Deflacao/Estagnacao'
-        end as nivel_inflacao,
-        
-        -- Classificação de Crescimento do PIB
-        case
-            when crescimento_pib < 0 then 'Recessao'
-            when crescimento_pib >= 5 then 'Forte Crescimento'
-            when crescimento_pib >= 2 then 'Crescimento Moderado'
-            else 'Estagnacao Economica'
-        end as crescimento_pib_categoria,
-        
-        -- Classificação de Violência
-        case
-            when taxa_homicidios_100mil >= 20 then 'Muito Violento'
-            when taxa_homicidios_100mil >= 10 then 'Violento'
-            when taxa_homicidios_100mil >= 5 then 'Moderado'
-            when taxa_homicidios_100mil > 0 then 'Pouco Violento'
-            else 'Sem Violencia Registrada'
-        end as nivel_violencia,
-        
-        -- Classificação de Cobertura Florestal
-        case
-            when florestas_percentual >= 50 then 'Muita Floresta'
-            when florestas_percentual >= 30 then 'Floresta Consideravel'
-            when florestas_percentual >= 10 then 'Pouca Floresta'
-            else 'Muito Pouca Floresta'
-        end as cobertura_florestal,
-
-        -- Classificação de Expectativa de Vida
-        case
-            when expectativa_vida >= 80 then 'Alta Expectativa de Vida'
-            when expectativa_vida >= 70 then 'Media Expectativa de Vida'
-            else 'Baixa Expectativa de Vida'
-        end as categoria_expectativa_vida
+        -- Macros para classificar os KPIs
+        {{ classificar_renda('renda_per_capita') }} as categoria_renda,
+        {{ classificar_inflacao('inflacao') }} as nivel_inflacao,
+        {{ classificar_crescimento_pib('crescimento_pib') }} as crescimento_pib_categoria,
+        {{ classificar_nivel_violencia('taxa_homicidios_100mil') }} as nivel_violencia,
+        {{ classificar_cobertura_florestal('florestas_percentual') }} as cobertura_florestal,
+        {{ classificar_expectativa_vida('expectativa_vida') }} as categoria_expectativa_vida
         
     from bm_ranked
     where rn = 1
 )
 
-select *
-from kpis_classificados
+select * from kpis_classificados
