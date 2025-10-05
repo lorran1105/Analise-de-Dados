@@ -1,6 +1,4 @@
-{{ config(
-    materialized='ephemeral'
-) }}
+{{ config( materialized='view') }}
 
 with bronze as (
     select * from {{ ref('bronze_fato_pais') }}
@@ -9,7 +7,19 @@ with bronze as (
 tratado as (
     select
         upper(trim(nome_resumido)) as nome_resumido,
-        upper(trim(nome)) as nome_pais,
+        
+        -- CORREÇÃO: COALESCE com 3 níveis
+        -- 1. Tenta a coluna 'nome'.
+        -- 2. Se for nulo/vazio, tenta 'nome_oficial'.
+        -- 3. Se for nulo/vazio, usa o 'nome_resumido' (código 2 letras) como garantia.
+        upper(trim(
+            coalesce(
+                nullif(trim(nome), ''),      
+                nullif(trim(nome_oficial), ''),
+                nome_resumido 
+            )
+        )) as nome_pais,
+        
         upper(trim(nome_oficial)) as nome_oficial,
         upper(trim(capital)) as capital,
         upper(trim(regiao)) as regiao,

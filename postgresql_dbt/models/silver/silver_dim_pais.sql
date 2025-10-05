@@ -1,6 +1,4 @@
-{{ config(
-    materialized='ephemeral'
-) }}
+{{ config(materialized='view') }}
 
 with bronze as (
     select * from {{ ref('bronze_dim_pais') }}
@@ -8,7 +6,15 @@ with bronze as (
 
 tratado as (
     select
-        upper(trim(nome_pais)) as nome_pais,
+        -- CORREÇÃO FINAL: COALESCE com 3 níveis (nome_pais > official_name > codigo_alpha3)
+        upper(trim(
+            coalesce(
+                nullif(trim(nome_pais), ''),      
+                nullif(trim(official_name), ''),
+                codigo_alpha3 
+            )
+        )) as nome_pais,
+
         upper(trim(official_name)) as nome_oficial,
         upper(trim(codigo_alpha2)) as codigo_alpha2,
         upper(trim(codigo_alpha3)) as codigo_alpha3,
@@ -16,7 +22,9 @@ tratado as (
         upper(trim(codigo_olimpico)) as codigo_olimpico,
         cast(data_carga as timestamp) as data_carga,
         row_number() over(partition by codigo_alpha3 order by data_carga desc) as rn
+    
     from bronze
+    -- Filtro WHERE removido conforme as instruções anteriores.
 )
 
 select * from tratado where rn = 1

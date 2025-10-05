@@ -24,7 +24,7 @@ kpi_mais_recente as (
     where pib_usd is not null and renda_per_capita is not null
 )
 
-select
+select distinct
     -- Informações do país (corrigidas para 'f')
     k.nome_pais,
     f.regiao,

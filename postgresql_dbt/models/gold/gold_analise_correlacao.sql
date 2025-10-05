@@ -18,7 +18,7 @@ dimensoes_pais as (
     select * from {{ ref('gold_dim_paises_analitica') }}
 )
 
-select
+select distinct
     -- METRICAS NUMERICAS (Alias F)
     f.ano_pib,
     f.pib_usd,
@@ -45,9 +45,7 @@ select
     d.regiao,
     d.subregiao,
     d.densidade_populacional_categoria,
-    d.tamanho_pais_categoria,
-    d.temperatura,
-    d.umidade
+    d.tamanho_pais_categoria
 
 -- 1. Junta Fatos Numéricos (F) com Dimensões (D)
 from fatos_numericos f

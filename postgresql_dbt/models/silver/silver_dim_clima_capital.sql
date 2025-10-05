@@ -1,6 +1,4 @@
-{{ config(
-    materialized='ephemeral'
-) }}
+{{ config(materialized='view') }}
 
 with bronze as (
 
