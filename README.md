@@ -22,9 +22,6 @@ O projeto segue uma arquitetura moderna de pipeline, dividida em duas camadas pr
 ---
 
 ## Estrutura do Repositório
-O projeto está organizado para refletir o fluxo do pipeline:
-
-## Estrutura do Repositório
 
 O projeto está organizado para refletir o fluxo do pipeline, da extração à modelagem:
 
